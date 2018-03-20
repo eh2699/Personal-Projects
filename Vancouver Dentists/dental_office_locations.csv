@@ -1,0 +1,706 @@
+,Name,Business Name,Phone,Address,Lat,Lng
+0,Dr. Edmond Woo, , 604 568 6000,"7270 Market Crossing, Burnaby,  V5J 0A2",49.1996453,-122.98156829999999
+1,Dr. Jeremy Leung, , 604 438 8847,"4603 Kingsway, Burnaby,  V5H 4M4",49.2295368,-123.0016916
+2,Dr. Ali-Reza Sanaie, Dawson Dental Centre, 604 298 3455,"4184 Dawson Street, Burnaby,  V5C 0A4",49.2643326,-123.0121621
+3,Dr. Dorothy Yung, , 604 568 6000,"7270 Market Crossing, Burnaby,  V5J 0A2",49.1996453,-122.98156829999999
+4,Dr. Dubravka Erceg, Gentle Dental Care, 604 434 3020,"4980 Kingsway, Burnaby,  V5H 4K7",49.2254833,-122.99383929999999
+5,Dr. Vania Ng, , 604 437 8714,"4500 Kingsway, Burnaby,  V5H 2A9",49.2290734,-123.00487949999999
+6,Dr. Tom Lee, , 604 568 2211,"3433 North Road, Burnaby,  V3J 0A9",49.2526848,-122.8936899
+7,Dr. Michael Tiu, , 604 438 8131,"4429 Kingsway, Burnaby,  V5H 2A1",49.2306351,-123.0061857
+8,Dr. Goran Stanisavljevic, Crystal Dental Centre, 604 431 0431,"4500 Kingsway, Burnaby,  V5H 2A9",49.2290734,-123.00487949999999
+9,Dr. Hoai-Thu Tran, The Dental Studio, 604 299 1289,"4012 Hastings Street, Burnaby,  V5C 2J2",49.2809143,-123.01573490000001
+10,Dr. Rajdeep Virk, Brentwood Dental Group, 604 299 7505,"4567 Lougheed Highway, Burnaby,  V5C 3Z6",49.268373,-123.0004278
+11,Dr. Christopher Sing, , 604 437 8714,"4500 Kingsway, Burnaby,  V5H 2A9",49.2290734,-123.00487949999999
+12,Dr. Mark Kwon, , 604 439 8885,"4603 Kingsway, Burnaby,  V5H 4M4",49.2295368,-123.0016916
+13,Dr. Wise Tang, Mega Dental Group, 604 433 5700,"4800 Kingsway, Burnaby,  V5H 4J2",49.22641470000001,-122.99875700000001
+14,Dr. Jin Huh, , 604 288 9210,"4603 Kingsway, Burnaby,  V5H 4M4",49.2295368,-123.0016916
+15,Dr. Hui-Kuan Chen, , 604 433 2225,"6411 Nelson Avenue, Burnaby,  V5H 4H3",49.2255695,-122.9946232
+16,Dr. Ji Chen, , 604 568 9930,"4232 Dawson Street, Burnaby,  V5C 0B8",49.264315,-123.0108717
+17,Dr. Andy Hua, Brentwood Dental Group, 604 299 7505,"4567 Lougheed Highway, Burnaby,  V5C 3Z6",49.268373,-123.0004278
+18,Dr. Sepehr Zahedi, Sleep & Sedation for Dentistry, 604 432 9223,"4361 Kingsway, Burnaby,  V5H 1Z9",49.2313092,-123.00700420000001
+19,Dr. Basant Abdel Rahman, , 604 294 1455,"1899 Willingdon Avenue, Burnaby,  V5C 5T1",49.26774959999999,-123.00366909999998
+20,Dr. Zina Sarsam, The Art of Dentistry, 604 431 0202,"6411 Nelson Avenue, Burnaby,  V5H 4H3",49.2255695,-122.9946232
+21,Dr. Dragana Stanisavljevic, Crystal Dental Centre, 604 431 0431,"4500 Kingsway, Burnaby,  V5H 2A9",49.2290734,-123.00487949999999
+22,Dr. Yanbin Xu, Dentists At Metrotown, 604 558 3636,"4820 Kingsway, Burnaby,  V5H 4P1",49.2254983,-122.99654679999999
+23,Dr. Daryoush Bakhshi-Sarighieh, Happy Molar Dental Centre, 604 432 9223,"4361 Kingsway, Burnaby,  V5H 1Z9",49.2313092,-123.00700420000001
+24,Dr. Zahra Davami, Dr. Zahra Davami Inc., 604 428 8396,"4980 Kingsway, Burnaby,  V5H 4K7",49.2254833,-122.99383929999999
+25,Dr. Sanaz Najian, HighGate Dental, 604 526 1122,"7155 Kingsway, Burnaby,  V5E 2V1",49.218989799999996,-122.95677350000001
+26,Dr. Ivan Jin, , 604 298 5595,"6562 Hastings Street, Burnaby,  V5B 1S2",49.279442100000004,-122.9675915
+27,Dr. Jeonghwa Kim, + , 604 428 0551,"4501 North RoadUnit 11, Burnaby,  V3N 4R7",49.2439104,-122.89407309999999
+28,Dr. Danial Deheshi, Solo Dental, 604 299 7656,"4465 Skyline Drive, Burnaby,  V5C 0H6",49.265386,-123.004373
+29,Dr. Thomas Hui, , 604 436 9496,"6200 McKay Avenue, Burnaby,  V5H 4L7",49.2267843,-123.0038377
+30,Dr. Jim Der, , 604 421 8809,"3433 North Road, Burnaby,  V3J 0A9",49.2526848,-122.8936899
+31,Dr. Sing Siew, Arta Dental, 604 437 7723,"3999 Kingsway, Burnaby,  V5H 1Y7",49.2329971,-123.0160488
+32,Dr. David Emery, Lakeview Dental Clinic, 604 524 3674,"7727 Edmonds Street, Burnaby,  V3N 1B9",49.2245635,-122.94074509999999
+33,Dr. Houman Houchmand, North Burnaby Dental Group, 604 291 6696,"4587 Hastings Street, Burnaby,  V5C 2K3",49.2812052,-123.00054850000001
+34,Dr. Evelyn Yeo, + Lougheed Dental Centre, 604 420 7133,"9855 Austin Road, Burnaby,  V3J 1N4",49.2516991,-122.8961476
+35,Dr. Jaspaul Seehra, , 604 432 7771,"4885 Kingsway, Burnaby,  V5H 4T2",49.22719379999999,-122.9946695
+36,Dr. Neeta Popat, , 604 294 3271,"4234 Hastings Street, Burnaby,  V5C 2J6",49.2809013,-123.01044080000001
+37,Dr. John Hou, , 604 437 6444,"6411 Nelson Avenue, Burnaby,  V5H 4H3",49.2255695,-122.9946232
+38,"""Dr. Michael O'Brien", , 604 437 5222,"6411 Nelson Avenue, Burnaby,  V5H 4H3",49.2255695,-122.9946232
+39,Dr. Karim Lalani, , 604 299 4010,"1899 Rosser Avenue, Burnaby,  V5C 6R5",49.2669341,-123.00669380000001
+40,Dr. Tzu-Ching Chiu, , 604 437 7723,"3999 Kingsway, Burnaby,  V5H 1Y7",49.2329971,-123.0160488
+41,Dr. Gianni Zanotto, + , 604 420 7133,"9855 Austin Road, Burnaby,  V3J 1N4",49.2516991,-122.8961476
+42,Dr. Pearl Chow, Dr. P.Y.H. Chow Inc., 604 299 8817,"3849A Hastings Street, Burnaby,  V5C 2H7",49.281306,-123.01948
+43,Dr. Peter Balogh, Vancouver Centre for Cosmetic & Implant Dentistry, 604 434 0248,"4800 Kingsway, Burnaby,  V5H 4J2",49.22641470000001,-122.99875700000001
+44,Dr. Sidney Chow, Oakmount Dental, 604 438 8238,"5266 Oakmount Crescent, Burnaby,  V5H 4S1",49.2312661,-122.98622639999999
+45,Dr. Vernon Beckie, Ocean Dental, 604 432 7874,"4789 Kingsway, Burnaby,  V5H 0A3",49.227841,-122.99669890000001
+46,Dr. Sushma Bajaj, Smile Dental Group, 604 433 7444,"7575 Market Crossing, Burnaby,  V5J 0A3",49.199181700000004,-122.9791347
+47,Dr. Senia Bobanovic, , 604 299 1099,"4351 Hastings Street, Burnaby,  V5A 2J7",49.2805398,-122.95860729999998
+48,Dr. Ian Matthew, Brentwood Oral Surgery / Dr. Ian Matthew Inc., 604 294 8889,"1901 Rosser Avenue, Burnaby,  V5C 6R6",49.266937,-123.006302
+49,Dr. Leslie Kallos, HighGate Dental, 604 526 1122,"7155 Kingsway, Burnaby,  V5E 2V1",49.218989799999996,-122.95677350000001
+50,Dr. Kenji Shimizu, , 604 434 0248,"4800 Kingsway, Burnaby,  V5H 4J2",49.22641470000001,-122.99875700000001
+51,Dr. Hsu-Ting Cheng, , 604 430 8138,"3811 Sunset Street, Burnaby,  V5G 1T4",49.249937,-123.01945800000001
+52,Dr. Michelle Kim, , 604 229 7505,"4567 Lougheed Highway, Burnaby,  V5C 3Z6",49.268373,-123.0004278
+53,Dr. Sherwin Mohammadnabi, Eagle Creek Dental Centre, 604 298 5333,"4442 Hastings Street East, Burnaby,  V5C 2K2",49.280868,-123.0046303
+54,Dr. Darren Sam, , 604 437 1234,"5050 Kingsway, Burnaby,  V5H 4C2",49.2258662,-122.9914949
+55,Dr. Terrance Coward, , 604 294 0858,"5710 Spruce Street, Burnaby,  V5G 1Y9",49.24673060000001,-122.9799634
+56,Dr. Suzanne Ting, Mega Dental Group, 604 433 5700,"4800 Kingsway, Burnaby,  V5H 4J2",49.22641470000001,-122.99875700000001
+57,Dr. Irene Greenberg, , 604 421 3522,"2849 North Road, Burnaby,  V3J 1R6",49.2585433,-122.89348079999999
+58,Dr. Abenaa Ayeh, , 604 294 1455,"1899 Willingdon Avenue, Burnaby,  V5C 5T1",49.26774959999999,-123.00366909999998
+59,Dr. Lyle Pidzarko, Ocean Dental, 604 432 7874,"4789 Kingsway, Burnaby,  V5H 0A3",49.227841,-122.99669890000001
+60,Dr. Joan Lai, , 604 636 0556,"7161 Arcola Way, Burnaby,  V5E 0A6",49.2195318,-122.95582659999998
+61,Dr. Grace Ko, , 604 436 9496,"6200 McKay Avenue, Burnaby,  V5H 4L7",49.2267843,-123.0038377
+62,Dr. Judy Wong, , 604 432 9291,"5021 Kingsway, Burnaby,  V5H 4A5",49.226480200000005,-122.99198319999999
+63,Dr. John Day, , 604 438 5261,"3965 Kingsway, Burnaby,  V5H 1Y8",49.2330581,-123.0166467
+64,Dr. Brian Ross, , 604 438 2464,"3815 Sunset Street, Burnaby,  V5G 1T4",49.249927299999996,-123.0194013
+65,Dr. Shiraz Fazal, , 604 523 1101,"7129 Arcola Street, Burnaby,  V5E 0A6",49.2195522,-122.9587791
+66,Dr. Erin McGuire, , 604 421 2112,"9855 Austin Road, Burnaby,  V3J 1N4",49.2516991,-122.8961476
+67,Dr. Mark Wang, , 604 421 2779,"1601 Burnwood Drive, Burnaby,  V5A 4H1",49.2700135,-122.9461804
+68,Dr. Jaideep Sekhon, Lakeview Dental Clinic, 604 526 4455,"7727 Edmonds Street, Burnaby,  V3N 1B9",49.2245635,-122.94074509999999
+69,Dr. Sarah He, , 604 439 8885,"4603 Kingsway, Burnaby,  V5H 4M4",49.2295368,-123.0016916
+70,Dr. Joty Manocha, Carleton Square Dental Centre, 604 294 0294,"4161 Hastings Street, Burnaby,  V5C 2J3",49.2813424,-123.01264429999999
+71,Dr. Silke Gumplinger, + Dr. Silke Gumplinger Inc., 604 439 7874,"4720 KingswayMetrotower II, Burnaby,  V5H 4N2",49.2257502,-123.00029029999999
+72,Dr. William Wong, Capital Hill Dental Clinic, 604 299 8491,"4633 Hastings Street, Burnaby,  V5C 2K6",49.2811984,-122.9989325
+73,Dr. Shermineh Milani, Midddlegate Burnaby Dentist (was Asha Dental Centre), 604 523 1101,"7129 Arcola Street, Burnaby,  V5E 0A6",49.2195522,-122.9587791
+74,Dr. Mohamed Hasham, , 604 559 8001,"3787 Canada Way, Burnaby,  V5G 1G5",49.254865,-123.02041799999999
+75,Dr. Wilfred Yu, , 604 434 9141,"7712 Royal Oak Avenue, Burnaby,  V5J 4K4",49.2137944,-122.9883284
+76,Dr. Benny Yee, , 604 267 3368,"8960 University High Street, Burnaby,  V5A 4Y6",49.2780221,-122.91172379999999
+77,Dr. Amarharjot Sarang, Burnaby Dental Group, 604 558 3372,"6588 Royal Oak Avenue, Burnaby,  V5H 3P4",49.223776799999996,-122.9886455
+78,Dr. Ronald McCaffrey, , 604 291 6696,"4587 Hastings Street, Burnaby,  V5C 2K3",49.2812052,-123.00054850000001
+79,Dr. Brian Jonasson, Metrotower Dental Centre, 604 434 3111,"4720 Kingsway, Burnaby,  V5H 4N2",49.225948700000004,-123.000824
+80,Dr. Aneeta Sandhu, , 604 299 2727,"4567 Lougheed Highway, Burnaby,  V5C 3Z6",49.268373,-123.0004278
+81,Dr. Lonny Lee, , 604 437 6899,"7362 Market Crossing, Burnaby,  V5J 0A2",49.1994816,-122.9794418
+82,Dr. Shayan Hedayati, , 604 451 4010,"5050 Kingsway, Burnaby,  V5H 4C2",49.2258662,-122.9914949
+83,Dr. Robert Abercromby, Bainbridge Dental / Dr. R. Abercromby Inc., 604 420 2545,"2842 Bainbridge Avenue, Burnaby,  V5A 3W7",49.2589821,-122.95602620000001
+84,Dr. Cesar Beloy, , 604 540 6000,"6975 Kingsway, Burnaby,  V5E 1E5",49.2185642,-122.95979979999998
+85,Dr. Stuart Rulka, , 604 437 4343,"6411 Nelson Avenue, Burnaby,  V5H 4H3",49.2255695,-122.9946232
+86,Dr. David Wong, , 604 524 4143,"7007 Kingsway, Burnaby,  V5E 1E5",49.218651200000004,-122.9592936
+87,Dr. Jim Der, , 604 437 6899,"7362 Market Crossing, Burnaby,  V5J 0A2",49.1994816,-122.9794418
+88,Dr. Jeffrey Cheung, , 604 437 0535,"5481 Kingsway, Burnaby,  V5H 2G1",49.22386840000001,-122.98459650000001
+89,Dr. Vivian Chow, , 604 524 9596,"7885 6th Street, Burnaby,  V3N 3N4",49.219124799999996,-122.9280543
+90,Dr. Richard Kofsky, The Smile Centre, 604 522 9818,"7617 Sixth Street, Burnaby,  V3N 3M6",49.222177200000004,-122.93197420000001
+91,Dr. Lisa Kostecki, North Burnaby Dental Group, 604 291 6696,"4587 Hastings Street, Burnaby,  V5C 2K3",49.2812052,-123.00054850000001
+92,Dr. Arshad Pirani, Vancouver TMJ and Sleep Therapy Centre, 604 566 9983,"4603 Kingsway, Burnaby,  V5H 4M4",49.2295368,-123.0016916
+93,Dr. Anzhalika Rumiantsava, Smile Matters, 604 620 4557,"4557 Hastings Street, Burnaby,  V5C 2K3",49.2811404,-123.0010432
+94,Dr. John Hung, Monarch Pediatric Dental Centre, 604 430 4980,"4980 Kingsway, Burnaby,  V5H 4K7",49.2254833,-122.99383929999999
+95,Dr. Edward Kwok, Arcola Dental Centre, 604 636 0556,"7161 Arcola Way, Burnaby,  V5E 0A6",49.2195318,-122.95582659999998
+96,Dr. Mary Beloy, , 604 540 6000,"6975 Kingsway, Burnaby,  V5E 1E5",49.2185642,-122.95979979999998
+97,Dr. Eui-Soo Shin, Hana Dental Group, 604 421 2804,"4501 North Road West, Burnaby,  V3N 4R7",49.2439104,-122.89407309999999
+98,"""Dr. Michael O'Brien", , 604 438 2464,"3815 Sunset Street, Burnaby,  V5G 1T4",49.249927299999996,-123.0194013
+99,Dr. Maria Radovanovic, , 604 430 1260,"3965 Kingsway, Burnaby,  V5H 1Y8",49.2330581,-123.0166467
+0,Dr. Celia Takahashi, Gleneagle Dental Centre, 604 552 1018,"1192 Lansdowne Drive, Coquitlam,  V3E 1J7",49.283799200000004,-122.81092209999998
+1,Dr. Mohammad Rahgozar, Ace Dental - Coquitlam, 604 524 9234,"1001 Brunette Avenue, Coquitlam,  V3K 6Z5",49.237898,-122.867103
+2,Dr. Edward Ng, Dr. Edward C. Ng Inc., 604 931 2112,"1070 Ridgeway Avenue, Coquitlam,  V3J 1S7",49.24947120000001,-122.8626068
+3,Dr. Daniel Vaida, Altitude Dental, 604 944 0100,"3001 Gordon Avenue, Coquitlam,  V3C 2K7",49.271867900000004,-122.792957
+4,Dr. Janice Garret, , 604 464 4344,"2918 Glen Drive, Coquitlam,  V3B 2P5",49.2821935,-122.7999652
+5,Dr. Magdalena Kalinowski, Pinetree Dental Centre, 604 464 8826,"2991 Lougheed Highway, Coquitlam,  V3B 6J6",49.276691,-122.7956206
+6,Dr. Carol Thorpe, Dr. Carol L. Thorpe Inc., 604 552 9500,"3030 Lincoln Avenue, Coquitlam,  V3B 6B4",49.2786057,-122.79195770000001
+7,Dr. Grace Chun, Lougheed Station Dental CentreE - , 604 939 0284,"435 North Road, Coquitlam,  V3K 3V9",49.247772399999995,-122.89113700000001
+8,Dr. Sonia Tolusso, Dr. Sonia Tolusso Inc., 604 942 6544,"1120 Westwood Street, Coquitlam,  V3B 7K8",49.278515899999995,-122.7910138
+9,Dr. Angela Lai, Coquitlam Centre Dental Clinic, 604 464 1511,"2929 Barnet Highway, Coquitlam,  V3B 5R5",49.2796092,-122.79861240000001
+10,Dr. Steven Chau, , 604 939 2468,"1108 Austin Avenue, Coquitlam,  V3K 3P5",49.2487,-122.861322
+11,Dr. Tom Lee, , 604 942 5222,"2929 Barnet Highway, Coquitlam,  V3B 5R5",49.2796092,-122.79861240000001
+12,Dr. Sangwoo Ham, , 604 939 6111,"949 Como Lake Avenue, Coquitlam,  V3J 3N2",49.26392020000001,-122.8690836
+13,Dr. Zhi Chun Song, Dr. Song Dental Clinic, 604 464 6810,"3008 Glen Drive, Coquitlam,  V3B 0J5",49.2824096,-122.79398370000001
+14,Dr. Irene Ng, , 604 942 6282,"3030 Lincoln Avenue, Coquitlam,  V6B 6B4",49.27860399999999,-122.79208590000002
+15,Dr. Wendy Lee, , 604 521 4239,"100 Schoolhouse Street, Coquitlam,  V3K 6V9",49.233493100000004,-122.85338519999999
+16,Dr. Iqbal Kathrada, Dr. I. Kathrada Inc., 604 931 6111,"2662 Austin Avenue, Coquitlam,  V3K 6C4",49.2487304,-122.8177288
+17,Dr. Brian Bengtson, Dr. Brian Bengtson Inc., 604 931 3431,"1032 Austin Avenue, Coquitlam,  V3K 3P3",49.2488178,-122.8647105
+18,Dr. Mohammad Yousefi, Aark Dental, 604 554 0244,"2929 Barnet Highway, Coquitlam,  V3B 5R5",49.2796092,-122.79861240000001
+19,Dr. Jung Kim, , 604 931 5550,"1120 Austin Avenue, Coquitlam,  V3K 3P5",49.2486903,-122.8607351
+20,Dr. Jasdeep Sandhu, Creekside Family Dental, 604 945 0962,"2773 Barnet Highway, Coquitlam,  V3B 1C2",49.27801299999999,-122.8067955
+21,Dr. Taesoon Park, Westwood Dental, 604 933 2828,"3000 Lougheed Highway, Coquitlam,  V3B 1C5",49.273555200000004,-122.7933019
+22,Dr. Dawn-Marie Jung-Doddington, , 604 931 6111,"2662 Austin Avenue, Coquitlam,  V3K 6C4",49.2487304,-122.8177288
+23,Dr. Ji Hae Shin, , 604 942 5222,"2929 Barnet Highway, Coquitlam,  V3B 5R5",49.2796092,-122.79861240000001
+24,Dr. Norman Wong, , 604 942 1110,"3380 David Avenue, Coquitlam,  V3E 3G8",49.29253509999999,-122.75548459999999
+25,Dr. Vanessa Lee, Vitacare Dental Centre, 778 355 3535,"1655 Como Lake Avenue, Coquitlam,  V3J 0E9",49.2636925,-122.84762830000001
+26,Dr. Reza Abbas Zadeh Hassiri, , 604 552 8884,"2918 Glen Drive, Coquitlam,  V3B 2P5",49.2821935,-122.7999652
+27,Dr. Bernard Jin, Smiles Unlimited Dental Centre, 604 939 6111,"949 Como Lake Avenue, Coquitlam,  V3J 3N2",49.26392020000001,-122.8690836
+28,Dr. Alexander Wong, Vitacare Dental Centre, 778 355 3535,"1655 Como Lake Avenue, Coquitlam,  V3J 0E9",49.2636925,-122.84762830000001
+29,Dr. Matthew Ng, Dr. Matthew S. Ng Inc., 604 939 2468,"1108 Austin Avenue, Coquitlam,  V3K 3P5",49.2487,-122.861322
+30,Dr. Malgorzata Szostak, , 604 945 0962,"2773 Barnet Highway, Coquitlam,  V3B 1C2",49.27801299999999,-122.8067955
+31,Dr. Thomas Routledge, , 604 942 3262,"2885 Barnet Highway, Coquitlam,  V3B 1C1",49.277895,-122.80247549999999
+32,Dr. Adriana Domide, Dr. Adriana Domide Inc., 604 931 9022,"1015 Austin Avenue, Coquitlam,  V3K 3N9",49.2493491,-122.86663200000001
+33,Dr. Kayvan Ashnaei, Glen Dental Centre, 604 552 2241,"2975 Glen Drive, Coquitlam,  V3B 2P7",49.2829318,-122.79529860000001
+34,Dr. Wayne Elkerton, , 604 936 1263,"2130 Austin Avenue, Coquitlam,  V3K 3R8",49.248801,-122.83577700000001
+35,Dr. Jamal Majdzadeh Ardakani, Bright Dental Clinic, 604 472 8882,"2976 Glen Drive, Coquitlam,  V3B 0G5",49.28245889999999,-122.7965825
+36,Dr. Nasim Mitha, Burnaby Mountain Dental Centre, 604 939 1035,"555 Clarke Road, Coquitlam,  V3J 3X4",49.2619256,-122.8904146
+37,Dr. Basil Lee, , 604 464 1606,"3019 Anson Avenue, Coquitlam,  V3B 2H6",49.277593700000004,-122.79243079999999
+38,Dr. Ellen Koo, , 604 936 0733,"2130 Austin Avenue, Coquitlam,  V3K 3R8",49.248801,-122.83577700000001
+39,Dr. Tom Lee, , 604 942 1116,"3380 David Avenue, Coquitlam,  V3E 3G8",49.29253509999999,-122.75548459999999
+40,Dr. Laura Wan, C, 604 927 2525,"1410 Parkway Boulevard, Coquitlam,  V3E 3J7",49.2960619,-122.8030875
+41,Dr. Jim Chen, , 604 931 7491,"1953 Como Lake Avenue, Coquitlam,  V3J 3R2",49.2635395,-122.8387578
+42,Dr. Melody Sun, , 604 944 4616,"1155 The High Street, Coquitlam,  V3B 7W4",49.28200469999999,-122.79550359999999
+43,Dr. Ann Lu, , www.drcolleenclancy.com,"1108 Austin Avenue, Coquitlam,  V9N 0A9",49.2487005,-122.86134340000001
+0,Dr. Agnes Chan, Dr. Agnes Y. Chan Inc., 604 534 3343,"19821 Fraser Highway, Langley,  V3A 4E1",49.1117773,-122.6741351
+1,Dr. Kirsten Lee, Dr. Agnes Y Chan Inc., 604 534 3343,"19821 Fraser Highway, Langley,  V3A 4E1",49.1117773,-122.6741351
+2,Dr. Snehal Shah, Jericho Dental Centre, 604 539 0211,"7280 200 Street, Langley,  V2Y 1S7",49.1345963,-122.6676375
+3,Dr. Bhushan Potluri, Astra Dental Centre, 604 533 8806,"5926 200 Street, Langley,  V3A 1N2",49.1102378,-122.66830530000001
+4,Dr. Todd Sorbo, , 604 882 8280,"8814 216 Street, Langley,  V1M 2Z9",49.162019,-122.62396499999998
+5,Dr. J. Cameron Garrett, , 604 532 9040,"19640 64th Avenue, Langley,  V2Y 1H3",49.1188386,-122.67875719999999
+6,Dr. Mark Wang, , 604 532 9040,"19640 64 Avenue, Langley,  V2Y 1H3",49.1188386,-122.67875719999999
+7,Dr. Peter Stepney, , 604 533 7774,"20103 40 Avenue, Langley,  V3A 2W3",49.074682,-122.66684129999999
+8,Dr. Syed Saidi, Saidi Dental Group, 604 539 9374,"6351 197 Street, Langley,  V2Y 1X8",49.11702589999999,-122.6776527
+9,Dr. Min Shu Liu, , 604 539 0188,"22259 48 Avenue, Langley,  V3A 8T1",49.090377600000004,-122.6070247
+10,Dr. Anil Verma, Banyan Dental, 604 533 4041,"20238 Fraser Highway, Langley,  V3A 4E6",49.1055099,-122.66158529999998
+11,Dr. Rajdeep Virk, , 604 533 8806,"5926 200 Street, Langley,  V3A 1N2",49.1102378,-122.66830530000001
+12,Dr. Denzil Nair, , 604 455 6247,"8590 200 Street, Langley,  V2Y 2B9",49.158966,-122.6674577
+13,Dr. Gurpreet Sidhu, Lighthouse Dental Centre, 604 888 9468,"8411 200 Street, Langley,  V2Y 0E7",49.1561315,-122.66880149999999
+14,Dr. Anh Do, Brookswood Dental, 604 533 8000,"4061 200 Street, Langley,  V3A 1K8",49.0759628,-122.66978470000001
+15,Dr. Helen Kuo, Dr. Helen L. Kuo Inc., 604 530 8866,"20040 40A Avenue, Langley,  V3A 2Y5",49.0757841,-122.66839479999999
+16,Dr. Dale Machine, , 604 533 3654,"20268 Fraser Highway, Langley,  V3A 4E6",49.105343100000006,-122.66073370000001
+17,Dr. Peter Broderick, , 604 530 5353,"19978 72 Avenue, Langley,  V2Y 1R7",49.13311909999999,-122.6688758
+18,Dr. Maria Tugbang, Sage Dental Centre / Dr. Maria L. Tugbang Inc., 604 882 9116,"9292 200 Street, Langley,  V1M 3A6",49.17214060000001,-122.66737759999998
+19,Dr. Sharon Lord, + Logan Creek DentalCentre , 604 530 3333,"6424 200 Street, Langley,  V2Y 2T3",49.11933089999999,-122.66811399999999
+20,Dr. Alexander McFarlane, , 604 882 0887,"8843 204 Street, Langley,  V1M 2K4",49.16324470000001,-122.6575228
+21,Dr. Anton James, , 604 514 9549,"5786 Glover Road, Langley,  V3A 4H9",49.1077667,-122.65056399999999
+22,Dr. Ruby Bhullar, D, 604 882 6822,"20159 88 Avenue, Langley,  V1M 0A4",49.165370200000005,-122.6645159
+23,Dr. Tom Lee, , 604 514 6499,"19978 72 Avenue, Langley,  V2Y 1R7",49.13311909999999,-122.6688758
+24,Dr. Peter Wong, , 604 530 4011,"20151 Fraser Highway, Langley,  V3A 4E4",49.1071909,-122.66239479999999
+25,Dr. Ernest Robson, Willoughby Dental CentreC, 604 532 3944,"20202 66 Avenue, Langley,  V2Y 1P3",49.1208129,-122.6629778
+26,Dr. Suphattra Lertruchikun, , 604 533 0131,"19705 Fraser Highway, Langley,  V3A 7E9",49.114526399999995,-122.6749022
+27,Dr. Lauren Currie, + Logan Creek DentalCentre , 604 530 3333,"6424 200 Street, Langley,  V2Y 2T3",49.11933089999999,-122.66811399999999
+28,Dr. Peter Wong, , 604 514 7588,"19909 64 Avenue, Langley,  V2Y 1G9",49.1192416,-122.6710013
+29,Dr. Stacy Stelting, Walnut Grove Family Dental, 604 882 0887,"8843 204 Street, Langley,  V1M 2K4",49.16324470000001,-122.6575228
+30,Dr. Sukhraj Samra, Langley Family Dental, 604 530 9737,"19941 72 Avenue, Langley,  V2Y 3J2",49.1338988,-122.67009180000001
+31,Dr. Andrew Lee, , 604 534 3343,"19821 Fraser Highway, Langley,  V3A 4E1",49.1117773,-122.6741351
+32,Dr. Shafiq Kara, Sage Dental Centre, 604 882 9116,"9292 200 Street, Langley,  V1M 3A6",49.17214060000001,-122.66737759999998
+33,Dr. Steven Hill, , 604 532 9040,"19640 64 Avenue, Langley,  V2Y 1H3",49.1188386,-122.67875719999999
+34,Dr. Athar Butt, Langley Village Dental, 604 510 5300,"20644 Fraser Highway, Langley,  V3A 4G5",49.10320840000001,-122.65060109999999
+35,Dr. Gyula Hegedus, , 604 534 4614,"20571 Douglas Crescent, Langley,  V3A 4B6",49.1030299,-122.65257790000001
+36,Dr. Jolie Stroup, , 604 882 0887,"8843 204 Street, Langley,  V1M 2K4",49.16324470000001,-122.6575228
+37,Dr. Rahim Jamal, , 604 882 0568,"21183 88 Avenue, Langley,  V1M 2G5",49.162361499999996,-122.6338824
+0,Dr. Jasmine Sethi, , 604 526 1216,"800 McBride Boulevard, New Westminster,  V3L 2B8",49.22291480000001,-122.91425520000001
+1,Dr. Pascale Charland, , 604 524 0800,"523 Sixth Street, New Westminster,  V3L 3B9",49.212283299999996,-122.91926640000001
+2,Dr. Karim Lalani, , 604 525 8500,"610 Sixth Street, New Westminster,  V3L 3C2",49.2125289,-122.92254150000001
+3,Dr. Tyler Duffy, , 604 526 1116,"800 Carnarvon Street, New Westminster,  V3M 0G3",49.201065299999996,-122.9125801
+4,Dr. Komal Dhir, Royal Square Dental, 604 526 1216,"800 McBride Boulevard, New Westminster,  V3L 2B8",49.22291480000001,-122.91425520000001
+5,Dr. Sandy Quek, , 604 524 1311,"522 Seventh Street, New Westminster,  V3M 5T5",49.2116805,-122.9213895
+6,Dr. Shiraz Fazal, , 604 529 9393,"1015 Columbia Street, New Westminster,  V3M 6H6",49.2011943,-122.91739679999999
+7,Dr. Amin Damji, Artis Dental Centre, 604 524 0800,"523 Sixth Street, New Westminster,  V3L 3B9",49.212283299999996,-122.91926640000001
+8,Dr. Ray Kang, , 604 525 1116,"800 Carnarvon Street, New Westminster,  V3M 0G3",49.201065299999996,-122.9125801
+9,Dr. Candy Cheung, Queensborough Dental CentreK, 604 777 0331,"805 Boyd Street, New Westminster,  V3M 5X2",49.19196969999999,-122.94884760000001
+10,Dr. Gursharan Dhaliwal, , 604 521 6313,"610 Sixth Street, New Westminster,  V3L 3C2",49.2125289,-122.92254150000001
+11,Dr. Kumudu Suriya, , 778 899 7089,"403 Sixth Street, New Westminster,  V3L 3B1",49.21053149999999,-122.916448
+12,Dr. Hussein Shivji, , 604 525 4391,"522 Seventh Street, New Westminster,  V3M 5T5",49.2116805,-122.9213895
+13,"""Dr. Darcy Murphy", Queen's Park Dental, 604 522 5242,"624 Sixth Street, New Westminster,  V3L 3C4",49.214022,-122.92177679999999
+14,Dr. Afsaneh Neyestani Jahromi, Fraserview Dental Centre, 604 525 1844,"80A Sixth Street, New Westminster,  V3L 5B3",49.2049466,-122.9102133
+15,Dr. Kenji Shimizu, , 604 521 7633,"625 Fifth Avenue, New Westminster,  V3M 1X4",49.211307,-122.9200024
+16,Dr. Norman Wong, New West Skytrain Station Dental, 604 525 1116,"800 Carnarvon Street, New Westminster,  V3M 0G3",49.201065299999996,-122.9125801
+17,Dr. David Burdett, , 604 521 7633,"625 Fifth Avenue, New Westminster,  V3M 1X4",49.211307,-122.9200024
+18,Dr. Chantal Theriault, , 604 524 4981,"609 Sixth Street, New Westminster,  V3L 3C1",49.2135093,-122.9202899
+19,Dr. Yoonjeong Ji, Viceroy Dental Clinic, 604 544 2558,"606 Belmont Street, New Westminster,  V3M 0G9",49.212076700000004,-122.9199164
+20,Dr. Tom Lee, , 604 525 1116,"800 Carnarvon Street, New Westminster,  V3M 0G3",49.201065299999996,-122.9125801
+21,Dr. Claribel Floreta, Claire Dental Centre, 604 777 8880,"625 B Belmont Street, New Westminster,  V3M 5Z8",49.2119055,-122.92075759999999
+22,Dr. Sushma Bajaj, Halo Dental, 604 544 8875,"91 Eighth Avenue, New Westminster,  V3L 0E9",49.220737899999996,-122.9156852
+23,Dr. Hedy Lam, Uptown Family Dental, 604 524 0111,"522 Seventh Street, New Westminster,  V3M 5T5",49.2116805,-122.9213895
+24,Dr. Jillian Turney, , 604 524 8838,"403 Sixth Street, New Westminster,  V3L 3B1",49.21053149999999,-122.916448
+25,Dr. Navneet Randhawa, Columbia Square Dental, 604 529 9393,"1015 Columbia Street, New Westminster,  V3M 6H6",49.2011943,-122.91739679999999
+26,"""Dr. Jonathan Yeung", , 604 522 2425,"233 Nelson's Crescent, New Westminster,  V3L 0E4",49.2241102,-122.8924825
+27,Dr. Dharamjit Sandhu, New Smile Dental Group, 778 397 2552,"1020 Ewen Avenue, New Westminster,  V3M 5E1",49.18543769999999,-122.94810020000001
+28,Dr. Firouzeh Majlessi, Columbia Square Dental, 604 529 9393,"1015 Columbia Street, New Westminster,  V3M 6H6",49.2011943,-122.91739679999999
+29,Dr. Loredana Musacchio, , 604 521 6313,"610 Sixth Street, New Westminster,  V3L 3C2",49.2125289,-122.92254150000001
+0,Dr. Glenn van As, , 604 985 1232,"1277 Lynn Valley Road, North Vancouver,  V7J 0A2",49.3367739,-123.03859750000001
+1,Dr. Ronald DeCamillis, Esplanade Dental At The Quay, 604 987 2237,"123 Carrie Cates Court, North Vancouver,  V7M 3K7",49.310644,-123.0815601
+2,Dr. Roshanak Rahmanian, Lonsdale Dental Centre, 604 988 3222,"1433 Lonsdale Avenue, North Vancouver,  V7M 2H9",49.3214829,-123.0728519
+3,Dr. Alan Ferguson, , 604 984 9155,"125 13th Street East, North Vancouver,  V7L 2L3",49.319709100000004,-123.07116599999999
+4,Dr. Mi-Young Chung, Family Care Dental Clinic, 604 987 3545,"1200 Lonsdale Avenue, North Vancouver,  V7M 3H6",49.319179999999996,-123.071882
+5,Dr. Janis Boyd, , 604 987 9022,"1511 Eastern Avenue, North Vancouver,  V7L 3G2",49.322442200000005,-123.0709504
+6,Dr. Jan Khanansho, , 604 929 1228,"3650 Mount Seymour Parkway, North Vancouver,  V7H 2Y5",49.3159581,-122.97108770000001
+7,Dr. Leila Shahbazi, Westview Dental Clinic, 604 985 3999,"2609 Westview Drive, North Vancouver,  V7N 4M2",49.333577399999996,-123.08864009999998
+8,Dr. Sharnell Muir, Sleep Better Live Better / Snore Dentist, 604 987 5337,"700 Marine Drive, North Vancouver,  V7M 1H3",49.3204691,-123.0919918
+9,Dr. Massoud Khoshnevis, , 604 986 1212,"1319 Marine Drive, North Vancouver,  V7P 3E5",49.323469,-123.11099750000001
+10,Dr. R. Anthony Reichert, Blueridge Dental, 604 929 5112,"2120 Dollarton Highway, North Vancouver,  V7H 0B5",49.3052792,-123.01687700000001
+11,Dr. Pei-Heng Wu, , 604 984 4356,"1199 Lynn Valley Road, North Vancouver,  V7J 3H2",49.33517579999999,-123.0415709
+12,Dr. Jimmy Chan, , 604 985 2912,"1199 Lynn Valley Road, North Vancouver,  V7J 3H2",49.33517579999999,-123.0415709
+13,Dr. Erin Shave, , 604 986 3358,"126 15th Street East, North Vancouver,  V7L 2P9",49.32221029999999,-123.0712322
+14,Dr. Gilbert Lee, Seymour Dental, 604 924 8289,"3650 Mount Seymour Parkway, North Vancouver,  V7H 2Y5",49.3159581,-122.97108770000001
+15,Dr. George Ho, Harbourside Dental Group, 604 986 9521,"889 Harbourside Drive, North Vancouver,  V7P 3S1",49.3137876,-123.0976617
+16,Dr. Shamshudin Kherani, Pier Dental Centre, 604 986 9161,"136 Esplanade West, North Vancouver,  V7L 0A7",49.3109159,-123.0782682
+17,Dr. Mahmoud Rajabi, Malikob Dental Centre, 604 924 1515,"935 Marine Drive, North Vancouver,  V7P 1S3",49.3221454,-123.1008834
+18,Dr. Susan Najian, Dr. Susan Q. Najian Inc., 604 990 7727,"1975 Lonsdale Avenue, North Vancouver,  V7M 2K3",49.327034499999996,-123.07260169999999
+19,Dr. Daryl Chin, Tradewinds Dental Centre, 604 987 8802,"57 Lonsdale Avenue, North Vancouver,  V7M 2E5",49.31140389999999,-123.07942109999999
+20,Dr. Ladan Keramati, , 604 980 7474,"1480 Marine Drive, North Vancouver,  V7P 1T6",49.324119700000004,-123.11445060000001
+21,Dr. James Boyd, , 604 984 3331,"126 15th Street East, North Vancouver,  V7L 2P9",49.32221029999999,-123.0712322
+22,Dr. James Tjorhom, , 604 988 1330,"125 13th Street East, North Vancouver,  V7L 2L3",49.319709100000004,-123.07116599999999
+23,Dr. Pourandokht Rostamian Sharifabad, , 604 988 1212,"1480 Marine Drive, North Vancouver,  V7P 1T6",49.324119700000004,-123.11445060000001
+24,Dr. Kathem Talebian, North Vancouver Dental Clinic , 604 988 8384,"619 4th Street East, North Vancouver,  V7L 1J9",49.3092624,-123.05938529999999
+25,Dr. Leetty Huang, , 604 987 5323,"3051 Highland Boulevard, North Vancouver,  V7R 2X4",49.33744369999999,-123.1024725
+26,Dr. Minko Bach, , 604 980 2648,"1200 Lynn Valley Road, North Vancouver,  V7J 2A2",49.3360609,-123.04067659999998
+27,Dr. Vincent King, , 604 980 7581,"1150 Marine Drive, North Vancouver,  V7P 1S8",49.324077200000005,-123.1058007
+28,Dr. Daniel How, , 604 987 4321,"3155 Highland Boulevard, North Vancouver,  V7R 2X5",49.3380245,-123.10143500000001
+29,Dr. Zlatica Bernath, , 604 988 0570,"3711 Delbrook Avenue, North Vancouver,  V7N 3Z4",49.343481,-123.08634140000001
+30,Dr. Patricia Bentley, , 604 985 1232,"1277 Lynn Valley Road, North Vancouver,  V7J 0A2",49.3367739,-123.03859750000001
+31,Dr. Thomas Petersen, Valley Centre Dental Group, 604 980 2648,"1200 Lynn Valley Road, North Vancouver,  V7J 2A2",49.3360609,-123.04067659999998
+32,Dr. Natalia Evans, , 604 986 4141,"145 15th Street West, North Vancouver,  V7M 1R9",49.3218065,-123.07445290000001
+33,Dr. Michael Wade, Dr. Michael J Wade Inc., 604 988 5014,"171 Esplanade West, North Vancouver,  V7M 3J9",49.311986499999996,-123.0824675
+34,Dr. Cyrus Aliakbari, , 604 770 2227,"108 11th Street East, North Vancouver,  V7L 2G5",49.3179521,-123.0721956
+35,Dr. Lila Nabi-Stuart, Town Centre Dental, 604 988 3368,"1233 Lynn Valley Road, North Vancouver,  V7J 0A1",49.33601029999999,-123.03909180000001
+36,Dr. Babak Chehroudi, , 604 985 7032,"120 15th Street East, North Vancouver,  V7L 2P9",49.32206559999999,-123.0714876
+37,Dr. Azar Grakoui, , 604 630 5751,"145 15 Street West, North Vancouver,  V7M 1R9",49.3218065,-123.07445290000001
+38,Dr. Melissa Skinner, Third Street Dental, 604 988 8168,"106 3rd Street West, North Vancouver,  V7M 1E8",49.3137301,-123.0772543
+39,Dr. Kamshad Pouraslani, Capilano Mall Dental Centre, 604 904 1040,"935 Marine Drive, North Vancouver,  V7P 1S3",49.3221454,-123.1008834
+40,Dr. Wendy Kwong, , 604 980 5405,"157 Chadwick Court, North Vancouver,  V7M 3K2",49.3106125,-123.0834139
+41,Dr. Ilinca Serban, , 604 985 0232,"147 16th Street West, North Vancouver,  V7M 1T3",49.3229385,-123.07442759999998
+42,Dr. Hojat Parsa, , 604 980 0700,"145 15th Street West, North Vancouver,  V7M 1R9",49.3218065,-123.07445290000001
+43,Dr. Negar Nazemi, Blue Sky Dental, 604 971 6999,"742 Marine Drive, North Vancouver,  V7M 1H3",49.321042600000006,-123.09299180000001
+44,Dr. Stanley Chong, , 604 980 3696,"1200 Lynn Valley Road, North Vancouver,  V7J 2A2",49.3360609,-123.04067659999998
+45,Dr. Sepehr Rahmany, Skyline Dental Centre, 604 987 1234,"1401 Lonsdale Avenue, North Vancouver,  V7M 2H9",49.32121,-123.07288
+46,Dr. Harman Mangat, Seycove Dental, 604 929 5022,"4319 Gallant Avenue, North Vancouver,  V7G 2C1",49.3266618,-122.95129270000001
+47,Dr. Melineh Stepanian Zadeh Salmasi, Lonsdale Place Dental, 604 770 3114,"1200 Lonsdale Avenue, North Vancouver,  V7M 3H6",49.319179999999996,-123.071882
+48,Dr. William Ward, , 604 988 2922,"1509 Eastern Avenue, North Vancouver,  V7L 3G2",49.3223086,-123.07095249999999
+49,Dr. Romeo Grossi, , 604 990 8737,"2601 Westview Drive, North Vancouver,  V7N 3X4",49.3329455,-123.0897388
+50,Dr. Firouzeh Majlessi, , 604 770 3114,"1200 Lonsdale Avenue, North Vancouver,  V7M 3H6",49.319179999999996,-123.071882
+51,Dr. Amin Damji, , 604 986 0800,"845 Marine Drive, North Vancouver,  V7P 0A8",49.3214032,-123.09587659999998
+52,Dr. Farshid Shahbazi, Nova Dental Clinic, 604 990 0057,"109 13th Street East, North Vancouver,  V7L 2L3",49.31959149999999,-123.0718514
+53,Dr. Rolf Reichert, Blueridge Dental, 604 929 5112,"2120 Dollarton Highway, North Vancouver,  V7H 0B5",49.3052792,-123.01687700000001
+54,Dr. Neda Rafati, Canyon Dental Centre, 604 985 1232,"1277 Lynn Valley Road, North Vancouver,  V7J 0A2",49.3367739,-123.03859750000001
+55,Dr. Anita Orendi, Lonsdale Dental Centre, 604 988 3222,"1433 Lonsdale Avenue, North Vancouver,  V7M 2H9",49.3214829,-123.0728519
+56,Dr. Alnoor Somji, , 604 988 2555,"1501 Eastern Avenue, North Vancouver,  V7L 3G2",49.3222005,-123.0710253
+57,Dr. Leslie Gallon, , 604 984 9381,"1200 Lonsdale Avenue, North Vancouver,  V7M 3H6",49.319179999999996,-123.071882
+58,Dr. Kris Klimek, Mountainview Dental Centre, 604 984 3368,"1388 Main Street, North Vancouver,  V7J 1C6",49.30598579999999,-123.03466329999999
+59,Dr. Betty Collison, , 604 980 0112,"1509 Eastern Avenue, North Vancouver,  V7L 3G2",49.3223086,-123.07095249999999
+60,Dr. Hossein Sarrafan-Soleimanzadeh, North Shore Dental Group, 604 988 5093,"879 Marine Drive, North Vancouver,  V7P 1R7",49.321153,-123.09777679999999
+61,Dr. Nasim Anderson, , 604 987 7272,"201 1st Street West, North Vancouver,  V7M 1B3",49.3131002,-123.0823378
+62,Dr. Mark Spooner, , 604 988 7333,"125 13th Street East, North Vancouver,  V7L 2L3",49.319709100000004,-123.07116599999999
+63,Dr. Mahmood Mohebiany, , 604 988 7780,"137 17th Street West, North Vancouver,  V7M 1V5",49.3240505,-123.07419979999999
+64,Dr. Robert Varda, , 604 985 9535,"3046 Edgemont Boulevard, North Vancouver,  V7R 2N4",49.3370857,-123.101077
+65,Dr. Terry McKay, I.Q. Dental, 604 988 7010,"132 14th Street East, North Vancouver,  V7L 2N3",49.321073,-123.070699
+66,Dr. Ronald Thompson, , 604 987 4716,"1835 Lonsdale Avenue, North Vancouver,  V7M 2J8",49.325841,-123.0725807
+0,Dr. Johannes Smit, Meadowvale Family Dental Centre, 604 457 0990,"19150 Lougheed Highway, Pitt Meadows,  V3Y 2H6",49.2305639,-122.69123470000001
+1,Dr. Gisele Awondzeko Fouellefack, , 604 465 6844,"12195 Harris Road, Pitt Meadows,  V3Y 2E9",49.224238,-122.69012099999999
+2,Dr. Blaine Cairns, , 604 465 8879,"12099 Harris Road, Pitt Meadows,  V3Y 0E5",49.2221689,-122.6902092
+3,Dr. Preet Bhatti, Pitt Meadows Dental Centre, 604 465 7733,"19618 Hammond Road, Pitt Meadows,  V3Y 1R8",49.2169973,-122.6777203
+4,Dr. Mehrdad Ezzati, , 604 457 0990,"19150 Lougheed Highway, Pitt Meadows,  V3Y 2H6",49.2305639,-122.69123470000001
+5,Dr. Dan Catona, Meadows Gate Dental, 604 459 3112,"12099 Harris Road, Pitt Meadows,  V3Y 0E5",49.2221689,-122.6902092
+6,Dr. Sorina Horga, , 604 465 4800,"12155 191B Street, Pitt Meadows,  V3Y 2S2",49.22326100000001,-122.691254
+7,Dr. Steven Sangha, Harris Road Dental, 604 460 4448,"12465 Harris Road, Pitt Meadows,  V3Y 2J5",49.229034399999996,-122.6897847
+8,Dr. Jan Versendaal, , 604 465 7733,"19618 Hammond Road, Pitt Meadows,  V3Y 1R8",49.2169973,-122.6777203
+0,Dr. Stanley Heinrichs, , 604 461 2228,"221 Ioco Road, Port Moody,  V3H 4H2",49.2836286,-122.827573
+1,Dr. N. Nicolas Kahwaji, , 604 469 1861,"84 Timbercrest Drive, Port Moody,  V3H 4T1",49.29621720000001,-122.8331439
+2,Dr. John Hung, , 604 461 4980,"205 Newport Drive, Port Moody,  V3H 5C9",49.2827625,-122.82753670000001
+3,Dr. Seyed Nima Eslami, , 604 939 5678,"2508 St Johns Street, Port Moody,  V3H 2B4",49.2768703,-122.85600090000001
+4,Dr. Lawrence Strother, , 604 939 5678,"2508 St Johns Street, Port Moody,  V3H 2B4",49.2768703,-122.85600090000001
+5,Dr. Aidin Ghotbi, Mint Dental, 604 939 3368,"2609 St Johns Street, Port Moody,  V3H 2B5",49.2764484,-122.854124
+6,Dr. Murielle Arsenault, , 604 469 8522,"121 Brew Street, Port Moody,  V3H 0E2",49.27956649999999,-122.82852520000002
+7,Dr. Ally Kassam, Inspire Dental Group, 604 469 6636,"130 Brew Street, Port Moody,  V3H 0E3",49.2801124,-122.82815900000001
+0,Dr. Jim Chen, , 604 273 0575,"6091 Gilbert Road, Richmond,  V7C 5L9",49.169275299999995,-123.1482173
+1,Dr. Arvinder Sooch, , 604 270 1341,"7580 River Road, Richmond,  V6X 1X6",49.182884200000004,-123.13939040000001
+2,Dr. Neil Zastre, Smile Brite Family Dental / Dr. Neil Zastre Inc., 604 273 3415,"6051 Gilbert Road, Richmond,  V7C 3V3",49.1697536,-123.14815300000001
+3,Dr. Xiuzhen Peng, Alderbridge Dental, 604 273 0797,"8080 Leslie Road, Richmond,  V6X 4A8",49.1795438,-123.1348294
+4,Dr. Behnam Partovi, West Richmond Dental Centre, 604 241 0707,"8671 No 1 Road, Richmond,  V7C 1V2",49.1492219,-123.1826827
+5,Dr. Darrell Douglas, , 604 273 0123,"9100 Blundell Road, Richmond,  V6Y 1K3",49.1545932,-123.12392439999999
+6,Dr. Gloria Yan, Asera Dental, 604 270 7504,"8033 Saba Road, Richmond,  V6Y 4M8",49.168999400000004,-123.1353715
+7,Dr. Tie hua He, Buswell Dental Centre, 604 278 8243,"6480 Buswell Street, Richmond,  V6Y 2E9",49.16690429999999,-123.1335382
+8,Dr. Danielle Woo, Centro Dental, 604 270 1160,"8060 Granville Avenue, Richmond,  V6Y 1P4",49.16232919999999,-123.135352
+9,Dr. Soumya Jain, Affinity Dental Clinic, 604 821 1111,"6551 No. 3 Road, Richmond,  V6Y 2B6",49.1669584,-123.13847539999999
+10,Dr. Eric Lau, , 604 278 8613,"5951 No 3 Road, Richmond,  V6X 2E3",49.1710106,-123.13679429999999
+11,Dr. Clarence Wong, , 604 278 8613,"5951 No 3 Road, Richmond,  V6X 2E3",49.1710106,-123.13679429999999
+12,Dr. Allan Woo, Centro Dental, 604 270 1160,"8060 Granville Avenue, Richmond,  V6Y 1P4",49.16232919999999,-123.135352
+13,Dr. James Hsia, , 604 271 6733,"10151 No 3 Road, Richmond,  V7A 4R6",49.139388700000005,-123.13842790000001
+14,Dr. Bruno Hsu, , 604 285 3111,"8580 Cambie Road, Richmond,  V6X 4J8",49.184076899999994,-123.1285124
+15,Dr. Gale Rocky, Steveston Dental Care / Dr. Gale D. Rocky Inc., 604 274 9988,"3951 Steveston Highway, Richmond,  V7E 2J9",49.13393629999999,-123.1819139
+16,Dr. Randal Shew, , 604 273 6066,"8220 Lansdowne Road, Richmond,  V6X 1B9",49.17340069999999,-123.1335287
+17,Dr. Gregory Nelson, , 604 232 3900,"7580 River Road, Richmond,  V6X 1X6",49.182884200000004,-123.13939040000001
+18,Dr. Marco Ka Wing Chung, , 604 285 9800,"4720 McClelland Road, Richmond,  V6X 0M6",49.1780694,-123.12052450000002
+19,Dr. Ahmed Ismail, Coppersmith Dental Centre, 604 274 5262,"11380 Steveston Highway, Richmond,  V7A 5J5",49.133043900000004,-123.0973011
+20,Dr. Ho Ma, , 604 276 2525,"7360 Westminster Highway, Richmond,  V6X 1A1",49.17003750000001,-123.1419
+21,Dr. Judy Yuen, Moncton Dental, 604 277 3515,"3511 Moncton Street, Richmond,  V7E 3A3",49.12528289999999,-123.1848607
+22,Dr. Hsien-Ting Huang, Centro Dental, 604 270 1160,"8060 Granville Avenue, Richmond,  V6Y 1P4",49.16232919999999,-123.135352
+23,Dr. Cecilia Lee, , 604 278 1960,"5951 No 3 Road, Richmond,  V6X 2E3",49.1710106,-123.13679429999999
+24,Dr. Tony Kwong, , 604 278 1907,"7031 Westminster Highway, Richmond,  V6X 1A3",49.1706177,-123.147249
+25,Dr. Winnie Chan, , 604 270 1160,"8060 Granville Avenue, Richmond,  V6Y 1P4",49.16232919999999,-123.135352
+26,Dr. Adrian Au, Aberdeen Dental Clinic, 604 233 0087,"4151 Hazelbridge Way, Richmond,  V6X 4J7",49.1840343,-123.1334768
+27,Dr. Alphonsus Au, , 604 233 0087,"4151 Hazelbridge Way, Richmond,  V6X 4J7",49.1840343,-123.1334768
+28,Dr. Elisa Chan, , 604 270 1168,"7031 Westminster Highway, Richmond,  V6X 1A3",49.1706177,-123.147249
+29,Dr. Jason Dinglasan, , 604 271 8464,"8180 No 2 Road, Richmond,  V7C 5K1",49.1536598,-123.1586102
+30,Dr. Shih-Yi Liang, Bayview Dental Centre, 604 277 2483,"12420 No 1 Road, Richmond,  V7E 6N2",49.1247683,-123.1809733
+31,Dr. Victor Zlotnik, , 778 297 7073,"10151 No 3 Road, Richmond,  V7A 4R6",49.139388700000005,-123.13842790000001
+32,Dr. Robert Jamieson, , 604 277 1223,"3951 Steveston Highway, Richmond,  V7E 2J9",49.13393629999999,-123.1819139
+33,Dr. Leslie Chew, , 604 279 2342,"8171 Ackroyd Road, Richmond,  V6X 3K1",49.1725854,-123.1351031
+34,Dr. Katherine Wong, , 604 273 9381,"6091 Gilbert Road, Richmond,  V7C 5L9",49.169275299999995,-123.1482173
+35,Dr. Amarjit Nunrha, + YVR Domestic Terminal, Richmond  V7B 1W2,", Level 1P,O Box 32302",38.99398720000001,-80.2320276
+36,Dr. Andrew Yang, Terra Nova Dental Centre, 604 277 8922,"3671 Westminster Highway, Richmond,  V7C 5V2",49.1703283,-123.18303470000001
+37,Dr. Wise Tang, , 604 821 1111,"6551 No 3 Road, Richmond,  V6Y 2B6",49.1669584,-123.13847539999999
+38,Dr. Gavin Forsyth, Clear Dental, 604 271 4048,"6180 Blundell Road, Richmond,  V7C 4W7",49.155122,-123.1566138
+39,Dr. Eric Li, , 604 276 8280,"7340 Westminster Highway, Richmond,  V6X 1A1",49.1699659,-123.1423598
+40,Dr. Jones Young, , 604 278 2738,"8120 Cook Road, Richmond,  V6Y 1V1",49.166226200000004,-123.13522659999998
+41,Dr. James Lee, , 604 244 3933,"4400 Hazelbridge Way, Richmond,  V6X 3R8",49.1817331,-123.13277679999999
+42,Dr. Brian Wong, Dr. Brian Wong Inc., 604 270 1168,"7031 Westminster Highway, Richmond,  V6X 1A3",49.1706177,-123.147249
+43,Dr. Ira Sy, Pacific Periodontal and Implant Centre, 604 271 4867,"11300 No 5 Road, Richmond,  V7A 5J7",49.130257799999995,-123.09159050000001
+44,Dr. Maureen Piche, Harmony Dental Studio, 604 277 2223,"3700 Moncton Street, Richmond,  V7E 3A4",49.1250908,-123.1833717
+45,Dr. Marguerite Lu, , 604 271 3007,"3651 Moncton Street, Richmond,  V7E 3A5",49.1255129,-123.1838415
+46,Dr. Maria Coquinco, , 604 270 3133,"4800 No 3 Road, Richmond,  V6X 3A6",49.1788606,-123.13580230000001
+47,Dr. Michele Nielsen, Steveston Smiles, 604 277 1131,"3951 Steveston Highway, Richmond,  V7E 2J9",49.13393629999999,-123.1819139
+48,Dr. Salim Kamani, , 604 274 5262,"11380 Steveston Highway, Richmond,  V7A 5J5",49.133043900000004,-123.0973011
+49,Dr. Ryan Kaltio, Dr. Ryan Kaltio Inc., 604 270 9988,"6091 Gilbert Road, Richmond,  V7C 5L9",49.169275299999995,-123.1482173
+50,Dr. John Yuen, Richmond Public Market Dental, 604 821 9888,"8260 Westminster Highway, Richmond,  V6X 3Y2",49.17016029999999,-123.13368179999999
+51,Dr. Carmen Chan, Dr. Frank H. Chow Inc., 604 273 9491,"8131 Westminster Highway, Richmond,  V6X 1A7",49.1705316,-123.13480290000001
+52,Dr. Chih-l Chang, Clear Dental, 604 271 4048,"6180 Blundell Road, Richmond,  V7C 4W7",49.155122,-123.1566138
+53,Dr. Marco Ka Wing Chung, , 604 273 9813,"8181 Cambie Road, Richmond,  V6X 1J8",49.18472329999999,-123.1344068
+54,Dr. Alan Lau, , 604 273 5919,"5811 No 3 Road, Richmond,  V6X 4L7",49.1723822,-123.13731000000001
+55,Dr. John Hutchinson, , 604 271 5522,"10151 No 3 Road, Richmond,  V7A 4R6",49.139388700000005,-123.13842790000001
+56,Dr. Carolyn Tsai, , 604 271 1440,"6180 Blundell Road, Richmond,  V7C 4W7",49.155122,-123.1566138
+57,Dr. Billy Yu, , 604 271 5522,"10151 No 3 Road, Richmond,  V7A 4R6",49.139388700000005,-123.13842790000001
+58,Dr. Edward Zhang, Saba Road Dental Center, 604 304 1088,"8191 Saba Road, Richmond,  V6Y 4B4",49.168981099999996,-123.1342471
+59,Dr. Maria Academia-de Guzman, , 604 244 8749,"4651 No 3 Road, Richmond,  V6X 2C4",49.1793619,-123.1383519
+60,Dr. Jaspreet Dhanju, Richmond Centre Dental, 604 276 2442,"6060 Minoru Boulevard, Richmond,  V6Y 2V7",49.1664187,-123.13940690000001
+61,Dr. James Cadigan, , 604 271 5622,"3740 Chatham Street, Richmond,  V7E 2Z3",49.126115999999996,-123.183824
+62,Dr. Afshin Soldouzi Moghaddam, Affinity Dental Clinic, 604 821 1111,"6551 No 3 Road, Richmond,  V6Y 2B6",49.1669584,-123.13847539999999
+63,Dr. Daniel Kah, Empire Dental Centre, 604 232 9833,"4600 No 3 Road, Richmond,  V6X 2C2",49.1803809,-123.135466
+64,Dr. Jonathan Wu, , 604 278 6732,"6091 Gilbert Road, Richmond,  V7C 5L9",49.169275299999995,-123.1482173
+65,Dr. Inderjit Dulay, Richmond Dental Centre, 604 273 3368,"8211 Cook Road, Richmond,  V6Y 1V3",49.1666607,-123.1334201
+66,Dr. Tasneem Manji, Chompers Family Dental, 604 284 5005,"6033 London Road, Richmond,  V7E 0A7",49.1180902,-123.15852920000002
+67,Dr. Angel Chen, , 604 271 6733,"10151 No 3 Road, Richmond,  V7A 4R6",49.139388700000005,-123.13842790000001
+68,Dr. Nicky Leung, , 604 821 0101,"5300 No 3 Road, Richmond,  V6X 2X9",49.175532700000005,-123.1324264
+69,Dr. Tuzar Kermani, , 604 285 9802,"4720 McClelland Road, Richmond,  V6X 0M6",49.1780694,-123.12052450000002
+70,Dr. Wai Chan, , 604 231 9684,"8171 Ackroyd Road, Richmond,  V6X 3K1",49.1725854,-123.1351031
+71,Dr. Robert Oliveros, Dr. Robert Oliveros Inc, 604 275 3361,"6180 Blundell Road, Richmond,  V7C 4W7",49.155122,-123.1566138
+72,Dr. Wise Tang, , 604 285 9800,"4720 McClelland Road, Richmond,  V6X 0M6",49.1780694,-123.12052450000002
+73,Dr. Patricia Hunter, Ackroyd Dental Center, 604 273 6011,"8211 Ackroyd Road, Richmond,  V6X 3K8",49.17227519999999,-123.13363390000002
+0,Dr. Frederick Li, , 604 708 8022,"750 Broadway West, Vancouver,  V5Z 1J1",49.26301110000001,-123.12118670000001
+1,Dr. Arie Alblas, Amberwood Dental, 604 738 1138,"1955 Broadway West, Vancouver,  V6J 1Z3",49.2639421,-123.14944969999999
+2,Dr. Kevin Bougher, The Vital Smile, 604 685 9373,"1090 Georgia Street West, Vancouver,  V6E 3V7",49.2853329,-123.1232054
+3,Dr. Lowell Chow, , 604 738 5051,"3195 Granville Street, Vancouver,  V6H 3K2",49.25731649999999,-123.1392053
+4,Dr. Victor Chow, , 604 266 5360,"650 41st Avenue West, Vancouver,  V5Z 2M9",49.2319614,-123.118505
+5,Dr. Anna Pranata, , 604 261 2220,"3540 41st Avenue West, Vancouver,  V6N 3E6",49.23447119999999,-123.1833399
+6,Dr. Stanley Radomsky, , 604 263 1701,"5655 Cambie Street, Vancouver,  V5Z 3A4",49.23398299999999,-123.1165763
+7,Dr. Karen Henderson, , 604 263 2317,"650 41st Avenue West, Vancouver,  V5Z 2M9",49.2319614,-123.118505
+8,Dr. Jinyong Choi, Aarm Dental Group Seymour, 604 688 7607,"993 Seymour Street, Vancouver,  V6B 3M1",49.2789255,-123.12186640000002
+9,Dr. Randall Allan, Camgara Dental Group, 604 321 5558,"7575 Cambie Street, Vancouver,  V6P 3H6",49.216109100000004,-123.1174071
+10,Dr. Katayoun Shayesteh, , 604 872 8201,"777 Broadway West, Vancouver,  V5Z 4J7",49.2635771,-123.12153810000001
+11,Dr. Vincent Tai, Dr. Vincent W. Tai & Associates, 604 324 3988,"6977 Victoria Drive, Vancouver,  V5P 3Y7",49.2206809,-123.0660699
+12,Dr. Daniel Lee, , 604 873 8057,"4332A Fraser Street, Vancouver,  V5V 4G3",49.246242200000005,-123.0900209
+13,Dr. Ara Elmajian, Dr. Ara Elmajian & Associates, 604 876 9228,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+14,Dr. Alexander Rosenczweig, Accord Dental, 604 731 3800,"2385 4th Avenue West, Vancouver,  V6K 1P2",49.2684732,-123.15943689999999
+15,Dr. Savlin Nicolic, , 604 261 2332,"5704 Balsam Street, Vancouver,  V6M 4B9",49.2343781,-123.161083
+16,Dr. Jadwiga Zwiercan, , 604 873 8117,"2949 Main Street, Vancouver,  V5T 3G4",49.2587238,-123.101684
+17,Dr. Allen Yu, , 604 873 8730,"650 8th Avenue West, Vancouver,  V5Z 1C8",49.2640628,-123.11898590000001
+18,Dr. Brian Goldenberg, , 604 874 4245,"750 Broadway West, Vancouver,  V5Z 1H9",49.26301110000001,-123.12118670000001
+19,Dr. Jeanne Ho, Dr. Jeanne Ho Inc., 604 255 0775,"1215 Nanaimo Street, Vancouver,  V5L 4T5",49.2736114,-123.0570462
+20,Dr. Amer Khakwany, , 604 688 2303,"80 Keefer Place, Vancouver,  V6B 0C9",49.2794472,-123.10688859999999
+21,Dr. Cara Yu, Arbutus North Dental, 604 733 3325,"1926 4th Avenue West, Vancouver,  V6J 1M5",49.2678972,-123.1486882
+22,Dr. David London, , 604 266 6232,"3579 41st Avenue West, Vancouver,  V6N 3E7",49.234949799999995,-123.18489709999999
+23,Dr. Garry Lunn, Dr. Lunn & Associates, 604 738 7710,"1338 Broadway West, Vancouver,  V6H 1H2",49.2632651,-123.1350173
+24,Dr. Wilson Kwong, , 604 261 9111,"650 41st Avenue West, Vancouver,  V5Z 2M9",49.2319614,-123.118505
+25,Dr. Niloufar Shirzad, Harbour Centre DentalL, 604 669 1195,"555 Hastings Street West, Vancouver,  V6B 4N6",49.284696600000004,-123.11193490000002
+26,Dr. Vineyard Choy, Aarm Dental Group Cambie, 604 684 0224,"2180 Cambie Street, Vancouver,  V5Z 4T1",49.2659814,-123.11476540000001
+27,Dr. Stacie Ross, , 604 736 7376,"2732 Broadway West, Vancouver,  V6K 2G4",49.2637957,-123.16709740000002
+28,Dr. Herbert Fisher, Shen Dental, 604 566 7777,"3737 Oak Street, Vancouver,  V6H 2M4",49.2522838,-123.1277652
+29,Dr. Michael Numerow, Aarm Dental Group BC Place, 604 689 0965,"919 Expo Boulevard, Vancouver,  V6Z 3G8",49.275617,-123.11536299999999
+30,Dr. Christopher Sing, , 604 325 2713,"5990 Fraser Street, Vancouver,  V5W 2Z7",49.2304603,-123.09026329999999
+31,Dr. Peter Andrews, Park Place DentalB, 604 689 7551,"666 Burrard Street, Vancouver,  V6C 2X8",49.285045700000005,-123.11921740000001
+32,Dr. Rosemary Chang, , 604 873 1211,"1240 Kingsway, Vancouver,  V5V 3E1",49.2512929,-123.0789874
+33,Dr. Horst Klein, , 604 682 0574,"777 Hornby Street, Vancouver,  V6Z 1S4",49.28310829999999,-123.12164750000001
+34,Dr. Laurence Cheevers, Broadway Station Dental Center, 604 874 6322,"2495 Commercial Drive, Vancouver,  V5N 4B8",49.26262699999999,-123.070075
+35,Dr. Jeffrey Norden, Westcoast Smile, 604 737 1023,"1874 1st Avenue West, Vancouver,  V6J 1G5",49.2704955,-123.14718529999999
+36,Dr. Janice Brennan, , 604 872 2525,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+37,Dr. Cecilia Ng, Smile Centre at Main , 604 322 7483,"415733 Main Street, Vancouver,  V5W 4C7",49.2330433,-123.101514
+38,Dr. Aaron Lee, Dr. Aaron K. Lee Inc., 604 438 1927,"2224 Kingsway, Vancouver,  V5N 2T7",49.2428102,-123.06052720000001
+39,Dr. Seiko Lee, Dr Seiko Lee Inc, 604 629 0386,"1156 Pacific Boulevard, Vancouver,  V6Z 2X7",49.274133299999995,-123.12028159999998
+40,Dr. Bradley Mar, , 604 253 2449,"2656 Hastings Street East, Vancouver,  V5K 1Z6",49.2809995,-123.0504425
+41,Dr. Bin Xie, Sasamat Dental, 604 224 3288,"4545 10th Avenue West, Vancouver,  V6R 4N2",49.2639943,-123.2101653
+42,Dr. Sandeep Sidhu, Alma Dental Centre, 604 222 8430,"2083 Alma Street, Vancouver,  V6R 4N6",49.267977200000004,-123.1864529
+43,Dr. Christopher Kan, , 604 224 8000,"2696 Arbutus Street, Vancouver,  V6J 5L8",49.2620673,-123.1527473
+44,Dr. Mersedeh Shahabaldine, , 604 734 2114,"3641 Broadway West, Vancouver,  V6R 2B8",49.2644887,-123.18470249999999
+45,Dr. Jerry Hamovich, Southlands Dental Group, 604 266 6232,"3579 41st Avenue West, Vancouver,  V6N 3E7",49.234949799999995,-123.18489709999999
+46,Dr. Dina Mintz-Nifco, , 604 266 8910,"650 41st Avenue West, Vancouver,  V5Z 2M9",49.2319614,-123.118505
+47,Dr. Kenneth Mitchell, , 604 731 4188,"2786 16th Avenue West, Vancouver,  V6K 4M1",49.2573279,-123.16735020000002
+48,Dr. Lawrence Lai, , 604 617 1138,"1188 Balfour Avenue, Vancouver,  V6H 1X4",49.2516054,-123.13122220000001
+49,Dr. Hin Ko, , 604 428 2168,"1245 Broadway West, Vancouver,  V6H 1G2",49.263758200000005,-123.1326055
+50,Dr. Mark Tulumello, , 604 874 6322,"2495 Commercial Drive, Vancouver,  V5N 4B8",49.26262699999999,-123.070075
+51,Dr. Ali Safaei, , 604 669 7467,"650 Georgia Street West, Vancouver,  V6B 4N9",49.28190069999999,-123.11800430000001
+52,Dr. Nicholas Seddon, Oceanfront Dental, 604 408 1061,"200 Burrard Street, Vancouver,  V6C 3L6",49.287683799999996,-123.11512420000001
+53,Dr. Andrew Chiu, , 604 322 6612,"5740 Cambie Street, Vancouver,  V5Z 3A6",49.2331559,-123.11579280000001
+54,Dr. Mahtab Dehghani, , 604 685 9851,"323 Jervis Street, Vancouver,  V6C 3P8",49.290547600000004,-123.1239419
+55,Dr. Aaron Berant, , 604 872 0021,"750 Broadway West, Vancouver,  V5Z 1J1",49.26301110000001,-123.12118670000001
+56,Dr. Kambiz Rakhshkhorshid, ABAN Yaletown Dental, 604 688 4400,"1208 Homer Street, Vancouver,  V6B 2Y5",49.2750998,-123.1232894
+57,Dr. Hee-Jeong Kong, , 604 261 2014,"8648 Granville Street, Vancouver,  V6P 5A1",49.2077625,-123.1402022
+58,Dr. Chi Chan, , 604 267 1688,"5403 West Boulevard, Vancouver,  V6M 3W5",49.2371679,-123.15568259999999
+59,Dr. Ali Mehio, Aria Dental (Dr Ali Mehio Inc.), 604 568 8686,"1030 Georgia Street West, Vancouver,  V6E 2Y3",49.2844874,-123.1218908
+60,Dr. Nazeem Kanani, , 604 736 8051,"2705 4th Avenue West, Vancouver,  V6K 1P9",49.268493799999995,-123.1664928
+61,Dr. Alphonsus Au, All Smiles Dental, 604 325 1231,"5775 Victoria Drive, Vancouver,  V5P 3W5",49.2318744,-123.065776
+62,Dr. Tara Kim, , 604 430 2178,"3150 54th Avenue East, Vancouver,  V5S 1Z1",49.2199404,-123.0400202
+63,Dr. Caroline McKillen, Aarm Dental Group Cambie, 604 684 0224,"2180 Cambie Street, Vancouver,  V5Z 4T1",49.2659814,-123.11476540000001
+64,Dr. Matthew Illes, , 604 734 4646,"2425 Oak Street, Vancouver,  V6H 3S7",49.264082200000004,-123.12704679999999
+65,Dr. Milton Reskovich, Wall Centre Dental, 604 879 3333,"1065 Hornby Street, Vancouver,  V6Z 2S5",49.28023340000001,-123.12596299999998
+66,Dr. Daniel Fedder, , 604 736 7377,"2732 Broadway West, Vancouver,  V6K 2G4",49.2637957,-123.16709740000002
+67,Dr. Tyler Duffy, Seaside Dental Centre, 604 733 2777,"1845 4th Avenue West, Vancouver,  V6J 1M4",49.2682925,-123.14668130000001
+68,Dr. Jui-Feng Yu, , 604 266 8602,"490 64th Avenue West, Vancouver,  V5X 2M1",49.21211659999999,-123.11665520000001
+69,Dr. Shaireen Lalani, Yaletown Dentistry, 604 801 6669,"1050 Hamilton Street, Vancouver,  V6B 2R9",49.27634949999999,-123.1203192
+70,Dr. Gaby Saliba, West End Dental Centre, 604 662 3333,"1030 Denman Street, Vancouver,  V6G 2M6",49.2887289,-123.13820030000001
+71,Dr. Lap Bong Kwoo, , 604 874 3404,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+72,Dr. Ehsan Taheri, , 604 669 1111,"1328 Alberni Street, Vancouver,  V6E 4N9",49.2880422,-123.12824009999999
+73,Dr. Nasrin Mansuripur, Vancouver Harbour Dental, 604 336 2130,"1192 Melville Street, Vancouver,  V6E 4P6",49.2875761,-123.12426570000001
+74,Dr. Elena Berant, , 604 872 0021,"750 Broadway West, Vancouver,  V5Z 1J1",49.26301110000001,-123.12118670000001
+75,Dr. Benjamin Yakiwchuk, Aarm Dental Group Denman, 604 647 0006,"917 Denman Street, Vancouver,  V6G 2L9",49.2903338,-123.1374444
+76,Dr. Mohammad Rahgozar, Ace Dental - Main, 604 675 9559,"3185 Main Street, Vancouver,  V5T 3G8",49.256821,-123.101456
+77,Dr. Pran Vashisht, Apna Dental Centre, 604 322 7400,"5973 Fraser Street, Vancouver,  V5W 2Z6",49.2303783,-123.0908287
+78,Dr. Robert Aaronson, Broadway Centre Dental Group, 604 873 4301,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+79,Dr. Pamela Davidson, , 604 224 5611,"3335 Dunbar Street, Vancouver,  V6S 2B9",49.2569826,-123.18550220000002
+80,Dr. William Marshall, The Marshall Clinic, 604 733 9311,"1770 7th Avenue West, Vancouver,  V6J 4Y6",49.265168599999996,-123.14511259999999
+81,Dr. Curtis Schlappner, Joyce Station Dental, 604 437 7073,"5258 Joyce Street, Vancouver,  V5R 6C9",49.2370899,-123.03277879999999
+82,Dr. Ernest Kennedy, , 604 324 6733,"6964 Victoria Drive, Vancouver,  V5P 3Y8",49.2206086,-123.0657136
+83,Dr. Amir Ajar, , 604 696 9299,"200 Granville Street, Vancouver,  V6C 1S4",49.28673360000001,-123.11239270000002
+84,Dr. Birgit Otto, Drs. Otto & Weaver Inc., 604 325 1648,"1376 57th Avenue East, Vancouver,  V5X 1V3",49.217873700000005,-123.07781509999998
+85,Dr. Alison Fransen, Wesbrook Village Dental Centre, 604 221 7600,"3328 Wesbrook Mall, Vancouver,  V6S 0A8",49.2547535,-123.235302
+86,Dr. Martin Loverin, , 604 873 9794,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+87,Dr. Ladan Khairkhah-Tabarsi, , 604 430 2178,"3150 54th Avenue East, Vancouver,  V5S 1Z1",49.2199404,-123.0400202
+88,Dr. Mehrdad Ezzati, Olympic Village Dental, 604 629 8440,"1753 Manitoba Street, Vancouver,  V5Y 0G9",49.26966420000001,-123.1067909
+89,Dr. Susan Gemeinhardt, Burrard Dental Care, 604 733 6721,"1770 7th Avenue West, Vancouver,  V6J 4Y6",49.265168599999996,-123.14511259999999
+90,Dr. James Armstrong, Aarm Dental Group Beach, 604 683 5530,"1000 Beach Avenue, Vancouver,  V6E 4M2",49.2757826,-123.1338545
+91,Dr. Peter Roberts, A Smile Above, 604 688 4422,"451 Bute Street, Vancouver,  V6E 4P9",49.2887699,-123.12308970000001
+92,Dr. Amin Shirvani, , 604 266 8277,"650 41st Avenue West, Vancouver,  V5Z 2M9",49.2319614,-123.118505
+93,Dr. Michelle Tao, Dentistry On The Drive, 604 251 1322,"1701 Grant Street, Vancouver,  V5L 2Y6",49.2714432,-123.0693515
+94,Dr. Edward Atkinson, , 604 874 9733,"750 Broadway West, Vancouver,  V5Z 1H2",49.26301110000001,-123.12118670000001
+95,Dr. Clarence Wong, , 604 609 2020,"90 Smithe Street, Vancouver,  V6B 1M7",49.2761696,-123.1153662
+96,Dr. Ira Sy, , 604 271 4867,"750 Broadway West, Vancouver,  V5Z 1H8",49.26301110000001,-123.12118670000001
+97,Dr. Serena Lau, , 604 321 7120,"3333 Fraser Street, Vancouver,  V5V 4C2",49.2551806,-123.09016809999999
+98,Dr. Sandy Ko, Dr. Sandy Y Ko Inc., 604 324 3988,"6977 Victoria Drive, Vancouver,  V5P 3Y7",49.2206809,-123.0660699
+99,Dr. Abbas Tejani, Kerrisdale Dental Centre, 604 261 9304,"2354 41st Avenue West, Vancouver,  V6M 2A4",49.234379499999996,-123.1607355
+100,Dr. Amin Shivji, , 604 221 7600,"3328 Wesbrook Mall, Vancouver,  V6S 0A8",49.2547535,-123.235302
+101,Dr. Christopher Mah, Denman Place Dental Centre, 604 688 3335,"1030 Denman Street, Vancouver,  V6G 2M6",49.2887289,-123.13820030000001
+102,Dr. Anik Saintonge, , 604 874 6322,"2495 Commercial Drive, Vancouver,  V5N 4B8",49.26262699999999,-123.070075
+103,Dr. Fouad Alethawy, Monalisa Dental Centre, 778 379 7575,"2866 4th Avenue West, Vancouver,  V6K 1R2",49.268141299999996,-123.1693322
+104,Dr. Kwan Law, Vancouver Grace Dental Clinic, 604 323 0773,"6441 Victoria Drive, Vancouver,  V5P 3X5",49.2258635,-123.066129
+105,Dr. Kevin Gee, Dr Kevin Gee Inc., 604 688 8066,"1152 Mainland Street, Vancouver,  V6B 4X2",49.274890899999995,-123.12117520000001
+106,Dr. Edward Lowe, , 604 683 2483,"1200 Burrard Street, Vancouver,  V6Z 2C7",49.27867929999999,-123.12913909999999
+107,Dr. Joseph Yick, , 604 430 3181,"3895 Rupert Street, Vancouver,  V5R 2G7",49.2497748,-123.03417749999998
+108,Dr. Jose Reina, , 604 321 5557,"7575 Cambie Street, Vancouver,  V6P 3H6",49.216109100000004,-123.1174071
+109,Dr. Yutaka Yoshida, Dr. Y. Vincent Yoshida Inc., 604 874 1221,"1750 10th Avenue East, Vancouver,  V5N 5K4",49.2611611,-123.0685722
+110,Dr. Sara Hamidi, West End Dental Centre, 604 662 3333,"1030 Denman Street, Vancouver,  V6G 2M6",49.2887289,-123.13820030000001
+111,Dr. Leslie Wong, Dental Clinic @ Robson, 604 683 6565,"1525 Robson Street, Vancouver,  V6G 1C3",49.2891555,-123.1314048
+112,Dr. Andrew Lee, Dr. Kiyoko Takeouchi and Associates, 604 266 4353,"1508 Broadway West, Vancouver,  V6J 1W8",49.2633531,-123.1391261
+113,Dr. Suzanne Carlisle, BC Cancer Agency -Oral Oncology, 604 877 6000,"600 10th Avenue West, Vancouver,  V5Z 4E6",49.262015399999996,-123.11886509999998
+114,Dr. Mark Norris, , 604 263 1855,"5970 East Boulevard, Vancouver,  V6M 3V4",49.2321552,-123.15471140000001
+115,Dr. Dorothy Wang, , 604 874 9388,"676A Leg-in-Boot Square, Vancouver,  V5Z 4B4",49.26747570000001,-123.11969270000002
+116,Dr. Kay Fung-Wang, , 604 682 3368,"211 Georgia Street East, Vancouver,  V6A 1Z6",49.278822999999996,-123.0993213
+117,Dr. Alexandre Li, Kare Dental, 604 879 9660,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+118,Dr. Geoffrey Dice, Aarm Dental Group Beach, 604 683 5530,"1000 Beach Avenue, Vancouver,  V6E 4M2",49.2757826,-123.1338545
+119,Dr. Ronald Melnyk, , 604 433 9565,"7120 Kerr Street, Vancouver,  V5S 4W2",49.218120299999995,-123.0414071
+120,Dr. Ian Low, , 604 266 1151,"2031 41st Avenue West, Vancouver,  V6M 1Y7",49.2347857,-123.1529912
+121,Dr. Avrum Perel-Panar, Broadway Center Dental Group, 604 873 4301,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+122,Dr. Szmul Winter, , 604 874 4414,"750 Broadway West, Vancouver,  V5Z 1H9",49.26301110000001,-123.12118670000001
+123,Dr. Walter Woo, , 604 879 5612,"4480 Main Street, Vancouver,  V5V 3R3",49.244721500000004,-123.1008818
+124,Dr. Sherri Wise, , 604 261 8262,"650 41st Avenue West, Vancouver,  V5Z 2M9",49.2319614,-123.118505
+125,Dr. Harold Rydell, , 604 254 7053,"2732 Hastings Street East, Vancouver,  V5K 1Z9",49.28097169999999,-123.0488561
+126,Dr. Kiranpal Gill, , 604 263 7355,"2899 41st Avenue West, Vancouver,  V6N 3C5",49.2349121,-123.17000449999999
+127,Dr. Chris Lee, , 604 325 1711,"6403 Fraser Street, Vancouver,  V5W 3A6",49.2264077,-123.0909347
+128,Dr. Sakura Iwagami, , 604 738 1816,"2223 Broadway West, Vancouver,  V6K 2E4",49.264090700000004,-123.15597179999999
+129,Dr. Amin Shivji, , 604 263 7355,"2899 41st Avenue West, Vancouver,  V6N 3C5",49.2349121,-123.17000449999999
+130,Dr. Kourosh Khodarahmi, Vancouver Public Health Children Dental Program, 604 675 3981,"1669 Broadway East, Vancouver,  V5N 1V9",49.2624866,-123.07059640000001
+131,Dr. Mario Esposito, , 604 408 9200,"678 Dunsmuir Street, Vancouver,  V6B 1N3",49.28314959999999,-123.116548
+132,Dr. Christopher Chung, Inspire Periodontics & Implants, 604 736 2330,"3719 10th Avenue West, Vancouver,  V6R 2G5",49.2636382,-123.18638229999999
+133,Dr. Christine Eckel, , 604 263 2317,"650 41st Avenue West, Vancouver,  V5Z 2M9",49.2319614,-123.118505
+134,Dr. A Anonymous, , 604 555 5555,"621 6th Avenue East, Vancouver,  V5T 4H3",49.2654992,-123.09032649999999
+135,Dr. Derek Lee, , 604 224 3880,"5780 Cambie Street, Vancouver,  V5Z 3A7",49.2327185,-123.1156656
+136,Dr. Paul Bild, , 604 688 7427,"1090 Georgia Street West, Vancouver,  V6E 3V7",49.2853329,-123.1232054
+137,Dr. Savita Dhingra, A&A; Dental Centre, 604 255 4001,"1288 Commercial Drive, Vancouver,  V5L 3X4",49.2731734,-123.0693163
+138,Dr. Anne Widya, , 604 734 2114,"3641 Broadway West, Vancouver,  V6R 2B8",49.2644887,-123.18470249999999
+139,Dr. Gloria Tang, Dr. Gloria Tang Inc., 604 872 7877,"2929 Commercial Drive, Vancouver,  V5N 4C8",49.25838359999999,-123.07007250000001
+140,Dr. Moses Lo, Dr. Moses Lo Inc., 604 430 3161,"2611 Kingsway, Vancouver,  V5R 5H4",49.239323999999996,-123.05215890000001
+141,Dr. Scott Merkley, , 604 261 7655,"650 41st Avenue West, Vancouver,  V5Z 2M9",49.2319614,-123.118505
+142,Dr. Michael Pauls, , 604 266 4046 ext 1,"5687 Yew Street, Vancouver,  V6M 3Y2",49.2349153,-123.15794450000001
+143,Dr. Kashyap Vora, , 604 321 1869,"6145 Fraser Street, Vancouver,  V5W 2Z9",49.22878410000001,-123.0908815
+144,Dr. Bruce Smith, , 604 266 6750,"1750 59th Avenue West, Vancouver,  V6P 1Z4",49.2174658,-123.1467188
+145,Dr. Andrea Baird, Aarm Dental Group Seymour, 604 688 7607,"993 Seymour Street, Vancouver,  V6B 3M1",49.2789255,-123.12186640000002
+146,Dr. Douglas Liu, , 604 874 6322,"2495 Commercial Drive, Vancouver,  V5N 4B8",49.26262699999999,-123.070075
+147,Dr. Ziva Sumbalova-Kikuchi, , 604 687 6480,"1200 Burrard Street, Vancouver,  V6Z 2C7",49.27867929999999,-123.12913909999999
+148,Dr. Ivan Kahn, , 604 684 4420,"1358 Georgia Street West, Vancouver,  V6E 4S2",49.2886371,-123.1280476
+149,Dr. Margaret Webb, , 604 733 9833,"2184 Broadway West, Vancouver,  V6K 2E1",49.263642,-123.15487150000001
+150,Dr. Andy Shiu Fung Lam, Joyce Station Dental / Dr. Andy S.F. Lam Inc., 604 437 7073,"5258 Joyce St, Vancouver,  V5R 6C9",49.2370899,-123.03277879999999
+151,Dr. Ralph Stefani, Dr. Ralph Stefani Inc., 604 327 2112,"6330 Fraser Street, Vancouver,  V5W 3A4",49.2272459,-123.09036040000001
+152,"""Dr. Heather O'Keefe", , 604 736 7374,"2732 Broadway West, Vancouver,  V6K 2G4",49.2637957,-123.16709740000002
+153,Dr. Lisa Reino, False Creek Dental Centre, 604 874 9388,"676A Leg-in-Boot Square, Vancouver,  V5Z 4B4",49.26747570000001,-123.11969270000002
+154,Dr. Stefan Caney, Aarm Dental Group Beach, 604 683 5530,"1000 Beach Avenue, Vancouver,  V6E 4M9",49.277541,-123.1353565
+155,Dr. Langston Raymond, , 604 687 1008,"1033 Davie Street, Vancouver,  V6E 1M7",49.279809,-123.12983329999999
+156,Dr. Fatemeh Motamedian, , 604 408 2408,"1258 Homer Street, Vancouver,  V6B 2Y5",49.2746402,-123.1240048
+157,Dr. Andrew Bass, , 604 340 8781,"1090 Georgia Street West, Vancouver,  V6E 3V7",49.2853329,-123.1232054
+158,Dr. Ashley Dykun Yakiwchuk, Aarm Dental Group Denman, 604 647 0006,"917 Denman Street, Vancouver,  V6G 2L9",49.2903338,-123.1374444
+159,Dr. Paul Wittenberg, , 604 873 5173,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+160,Dr. Vineyard Choy, Aarm Dental Group Coal Harbour, 604 688 2354,"1560 Coal Harbour Quay, Vancouver,  V6G 3G1",49.2914471,-123.12823689999999
+161,Dr. Bayan Mottahed, Mercato Dental Centre, 604 254 5900,"1617 Commercial Drive, Vancouver,  V5L 3Y3",49.2702997,-123.06989140000002
+162,Dr. Robin Mak, Kits Family Dental / Dr. Robin Mak, 604 738 1816,"2223 Broadway West, Vancouver,  V6K 2E4",49.264090700000004,-123.15597179999999
+163,Dr. Charmaine Fong, Aarm Dental Group Hornby, 604 681 8530,"1270 Hornby Street, Vancouver,  V6Z 1W2",49.2776654,-123.1290645
+164,Dr. Harinder Sangha, , 604 222 1299,"2083 Alma Street, Vancouver,  V6R 4N6",49.267977200000004,-123.1864529
+165,Dr. Eric Bussieres, DrB Dental, 604 684 5351,"1128 Hornby Street, Vancouver,  V6Z 2L4",49.2789452,-123.12689350000001
+166,Dr. Tam Do, Kingsgate Dental, 604 879 9999,"370 Broadway East, Vancouver,  V5T 4G5",49.26231670000001,-123.0970645
+167,Dr. Nelson Hui, First Avenue Dental Group, 604 254 5040,"2800 1st Avenue East, Vancouver,  V5M 4N9",49.26902329999999,-123.0456737
+168,Dr. Kenneth Neuman, , 604 263 5217,"5970 Granville Street, Vancouver,  V6M 3E1",49.2317679,-123.13920230000001
+169,Dr. Jack Wong, Larch Dental Center, 604 694 0062,"2488 41st Avenue West, Vancouver,  V6M 2A7",49.2345555,-123.16221709999999
+170,Dr. Yanbin Xu, False Creek Pure Dental , 604 877 1712,"303 2nd Avenue West, Vancouver,  V5Y 1C9",49.26828949999999,-123.11193329999999
+171,Dr. Diane Bird, Dr. Diane M. Bird Inc., 604 736 7373,"2732 Broadway West, Vancouver,  V6K 2G4",49.2637957,-123.16709740000002
+172,Dr. George Lo, , 604 681 6737,"909 Davie Street, Vancouver,  V6Z 1B9",49.27871560000001,-123.12835829999999
+173,Dr. Alice Chadwick, , 604 876 6122,"1750 10th Avenue East, Vancouver,  V5N 5K4",49.2611611,-123.0685722
+174,Dr. Paul Kam, , 604 732 1383,"1689 7th Avenue West, Vancouver,  V6J 1S4",49.265515,-123.142743
+175,Dr. Brian Baird, , 604 684 7745,"1185 Georgia Street West, Vancouver,  V6E 4E6",49.28714369999999,-123.1246554
+176,Dr. Abbas Tejani, Occlusal Rehabilitation Centre, 604 687 3740,"2408 41st Avenue West, Vancouver,  V6M 2A7",49.2344971,-123.161576
+177,Dr. Bernard Yau, Dr. Bernard Yau Inc., 604 689 8505,"1090 Georgia Street West, Vancouver,  V6E 3V7",49.2853329,-123.1232054
+178,Dr. Vania Ng, , 604 325 2713,"5990 Fraser Street, Vancouver,  V5W 2Z7",49.2304603,-123.09026329999999
+179,Dr. Joel Marcoe, Southlands Dental Group, 604 266 6232,"3579 41st Avenue West, Vancouver,  V6N 3E7",49.234949799999995,-123.18489709999999
+180,Dr. Jesse Ho, , 604 633 1199,"1026 Mainland Street, Vancouver,  V6B 2T4",49.2760155,-123.1196396
+181,Dr. Mark Suyama, , 604 682 1601,"711 Richards Street, Vancouver,  V6B 3A6",49.28086709999999,-123.1169685
+182,Dr. Wayne Okamura, Dr. Wayne Okamura Inc. & Associates, 604 736 7374,"2732 Broadway West, Vancouver,  V6K 2G4",49.2637957,-123.16709740000002
+183,Dr. Bo Hu, , 604 879 2526,"3763 Main Street, Vancouver,  V5V 3N8",49.2512295,-123.10125910000001
+184,Dr. David Maycher, , 604 569 0099,"555 Georgia Street West, Vancouver,  V6B 1Z6",49.2815186,-123.1163436
+185,Dr. Christina Wong, , 604 261 3366,"650 41st Avenue West, Vancouver,  V5Z 2M9",49.2319614,-123.118505
+186,Dr. Kimberley Kent, Marinaside Dental, 604 685 5456,"179 Davie Street, Vancouver,  V6Z 2Y1",49.2739189,-123.1206135
+187,Dr. Gary Wong, , 604 324 3988,"6977 Victoria Drive, Vancouver,  V5P 3Y7",49.2206809,-123.0660699
+188,Dr. John Lee, , 604 736 7372,"2732 Broadway West, Vancouver,  V6K 2G4",49.2637957,-123.16709740000002
+189,Dr. Jaspal Rai, West , 604 734 1144,"2760 Broadway West, Vancouver,  V6K 4M2",49.263831200000006,-123.16753510000001
+190,Dr. James Weaver, Drs. Otto & Weaver Inc., 604 325 1648,"1376 57th Avenue East, Vancouver,  V5X 1V3",49.217873700000005,-123.07781509999998
+191,Dr. Arthur Ross, Image Smiles Dental, 604 874 0028,"750 Broadway West, Vancouver,  V5Z 1J4",49.263009000000004,-123.12118600000001
+192,Dr. Douglas Nann, , 604 431 7891,"1850 Kingsway Street, Vancouver,  V5N 2S7",49.245963,-123.06745959999999
+193,Dr. Victor Yeung, , 604 737 1111,"3307 Broadway West, Vancouver,  V6R 2B1",49.2645427,-123.1781967
+194,Dr. George Nye, , 604 872 3217,"2416 Nanaimo Street, Vancouver,  V5N 5E4",49.2626775,-123.05625729999998
+195,Dr. Thomas Karkanis, Atlantis Dental, 604 899 0775,"1278 Pacific Boulevard, Vancouver,  V6Z 2V1",49.2735704,-123.1224335
+196,Dr. Andrew Seebaran, Dr. Andrew Seebaran, 604 224 3368,"4469 10th Avenue West, Vancouver,  V6R 2H8",49.2639908,-123.20820800000001
+197,Dr. Derek Clease, , 604 879 7366,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+198,Dr. Arthur Lau, , 604 876 4537,"555 12th Avenue West, Vancouver,  V5Z 3X7",49.2608925,-123.1164388
+199,Dr. Kenneth Walters, Dr. Ken C. Walters Inc.and Associates, 604 683 3040,"189 Hastings Street East, Vancouver,  V6A 1N5",49.281520799999996,-123.100567
+200,Dr. Alexander Lieblich, , 604 253 4567,"2732 Hastings Street East, Vancouver,  V5K 1Z9",49.28097169999999,-123.0488561
+201,Dr. Sean Sikorski, House of Teeth, 604 559 4638,"331 Broadway East, Vancouver,  V5T 1W5",49.2629549,-123.0982162
+202,Dr. Gary Wong, , 778 379 3822,"4050 Main Street, Vancouver,  V5V 1Z6",49.24907229999999,-123.10070309999999
+203,Dr. Virginia Chiu, Crown Dental Centre, 778 379 3822,"4050 Main Street, Vancouver,  V5V 0C4",49.24907229999999,-123.10070309999999
+204,Dr. Khoon Lim, Killarney Dental Centre, 604 433 4912,"2609 49th Avenue East, Vancouver,  V5S 1J9",49.2256277,-123.0543703
+205,Dr. Judy Chen, , 604 732 3828,"1055 Broadway West, Vancouver,  V6H 1E2",49.2637182,-123.1278178
+206,Dr. Mina Kim, Balsam Dental Centre, 604 261 6229,"2438 41st Avenue West, Vancouver,  V6M 2A7",49.23449309999999,-123.16187659999999
+207,Dr. Richard Tsow, , 604 731 7313,"1055 Broadway West, Vancouver,  V6H 1E2",49.2637182,-123.1278178
+208,Dr. Amin Shivji, , 604 669 1111,"1328 Alberni Street, Vancouver,  V6E 4N9",49.2880422,-123.12824009999999
+209,Dr. Jolly Ma, , 604 261 9111,"650 41st Avenue West, Vancouver,  V5Z 2M9",49.2319614,-123.118505
+210,Dr. Eddy Lam, Dr. Eddy Lam Inc., 604 874 4261,"2618 Commercial Drive, Vancouver,  V5N 4C4",49.2609664,-123.0695719
+211,Dr. Austin Lee, , 604 336 2050,"3638 Kingsway, Vancouver,  V5R 5M2",49.232040999999995,-123.0258028
+212,Dr. Shao Huo, , 604 433 8228,"2559 Kingsway, Vancouver,  V5R 5H3",49.2397728,-123.05306750000001
+213,Dr. Judith Gough, Family First Dental, 604 876 4810,"4850 Fraser Street, Vancouver,  V5V 4H4",49.24109869999999,-123.0901838
+214,Dr. Mariam Sourial, The Rise Dental Group, 604 876 4000,"467 8th Avenue West, Vancouver,  V5Y 3Z5",49.264061,-123.113937
+215,Dr. Parviz Roshanzamir, Wall Centre Dental, 604 879 3333,"1065 Hornby Street, Vancouver,  V6Z 2S5",49.28023340000001,-123.12596299999998
+216,Dr. Janet Roberts, , 604 688 4422,"451 Bute Street, Vancouver,  V6E 4P9",49.2887699,-123.12308970000001
+217,Dr. Iris Michaan, Aarm Dental Group Yaletown, 604 629 0386,"1156 Pacific Boulevard, Vancouver,  V6Z 2X7",49.274133299999995,-123.12028159999998
+218,Dr. Christina Lo, , 604 738 4223,"2184 Broadway West, Vancouver,  V6K 2E1",49.263642,-123.15487150000001
+219,Dr. Chilette Dimou, Dr. Chilette Dimou Inc., 604 732 9522,"1285 Broadway West, Vancouver,  V6H 3X8",49.26375969999999,-123.1333169
+220,Dr. Sean Chiu, , 604 322 6612,"5740 Cambie Street, Vancouver,  V5Z 3A6",49.2331559,-123.11579280000001
+221,Dr. Chia-Liang Wu, , 604 875 8383,"4088 Cambie Street, Vancouver,  V5Z 2X8",49.249292,-123.11496969999999
+222,Dr. Philip Chang, , 604 979 8828,"615 Main Street, Vancouver,  V6A 2V4",49.279227399999996,-123.10001580000001
+223,Dr. Palwinder Dhillon, Gentle Dental Group, 604 254 4717,"600 Hastings Street East, Vancouver,  V6A 1R1",49.28102759999999,-123.0913713
+224,Dr. Florence Lockhart, Arbutus North Dental Centre, 604 733 3325,"1926 4th Avenue West, Vancouver,  V6J 1M5",49.2678972,-123.1486882
+225,Dr. Kourosh Kaviani, , 604 877 0664,"2561 Commercial Drive, Vancouver,  V5N 4C1",49.2617026,-123.0700324
+226,Dr. Richard Gilsig, , 604 681 6699,"885 Dunsmuir Street, Vancouver,  V6C 1N5",49.2848076,-123.1180071
+227,Dr. Yen-Yu Lai, Atelier Dental, 604 261 3389,"650 41st Avenue West, Vancouver,  V5Z 2M9",49.2319614,-123.118505
+228,Dr. Debra Mitchell, , 604 321 5559,"1200 73rd Avenue West, Vancouver,  V6P 6G5",49.2040335,-123.13368
+229,Dr. Kyle Green, Oceanfront Dental, 604 408 1061,"200 Burrard Street, Vancouver,  V6C 3L6",49.287683799999996,-123.11512420000001
+230,Dr. Jozef Labedzki, , 604 669 4114,"1525 Robson Street, Vancouver,  V6G 1C3",49.2891555,-123.1314048
+231,Dr. Siavash Naseh, Broadway Dental, 604 872 8201,"777 Broadway West, Vancouver,  V5Z 4J7",49.2635771,-123.12153810000001
+232,Dr. Venus Nemati, Granville Station Dental Centre, 604 408 9200,"678 Dunsmuir Street, Vancouver,  V6B 1N3",49.28314959999999,-123.116548
+233,Dr. Angel Chen, Love My Smile Dental, 604 647 6453,"8307 Oak Street, Vancouver,  V6P 4A9",49.2106013,-123.130475
+234,Dr. Amin Shivji, , 604 876 4000,"467 8th Avenue West, Vancouver,  V5Y 3Z5",49.264061,-123.113937
+235,Dr. Nantha Rajkumar, Mount Pleasant Dental Group, 604 559 9955,"611 Broadway East, Vancouver,  V5T 1X7",49.26277879999999,-123.09041909999999
+236,Dr. Clive Bethel, Fraserhood Dental, 604 259 1659,"5490 Fraser Street Street, Vancouver,  V5W 2Z2",49.2349578,-123.09033970000002
+237,Dr. Dean Wershler, , 604 688 4080,"1033 Davie Street, Vancouver,  V6E 1M7",49.279809,-123.12983329999999
+238,Dr. Madeson Basie, PG Dental, 604 559 8787,"5511 West Boulevard, Vancouver,  V6M 4H3",49.236208000000005,-123.15586259999999
+239,Dr. Richard Busse, Dr. Richard R. Busse Inc., 604 255 4151,"2661 Hastings Street East, Vancouver,  V5K 1Z5",49.28125010000001,-123.0505118
+240,Dr. Mario Esposito, , 604 669 1111,"1328 Alberni Street, Vancouver,  V6E 4N9",49.2880422,-123.12824009999999
+241,Dr. Thi Dang, , 604 873 1716,"3369 Fraser Street, Vancouver,  V5V 4C2",49.2549898,-123.09016580000001
+242,Dr. Andrew Cheng, , 604 709 9001,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+243,Dr. Rodney Shainbom, Mercato Dental Centre, 604 254 5900,"1617 Commercial Drive, Vancouver,  V5L 3Y3",49.2702997,-123.06989140000002
+244,Dr. Anne Yen, , 604 224 2411,"2150 Western Parkway, Vancouver,  V6T 1V6",49.265970700000004,-123.2431037
+245,Dr. Melinda Ho, , 604 253 4005,"2519 Hastings Street East, Vancouver,  V5K 1Z2",49.2812739,-123.05403500000001
+246,Dr. Philip Lim, Oakridge Cosmetic, Vancouver  V5Z 3A4,", Implant a,nd Family Dentistry230 - 5655 Cambie Street",49.23398299999999,-123.1165763
+247,Dr. Maria Valdes, Dr. Francisca S. Valdes Inc, 604 434 4412,"5301 Joyce Street, Vancouver,  V5R 4H3",49.236418799999996,-123.0339817
+248,Dr. Chi-Cheng Yu, , 604 266 8602,"490 64th Avenue West, Vancouver,  V5X 2M1",49.21211659999999,-123.11665520000001
+249,Dr. Robert Yip, , 604 872 8555,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+250,Dr. Jatinder Riar, , 604 321 8001,"6425 Main Street, Vancouver,  V5W 2V5",49.22638569999999,-123.1017983
+251,Dr. Michael Lau, , 604 872 6027,"3537 Main Street, Vancouver,  V5V 3N4",49.2533119,-123.1011541
+252,Dr. Pei-Heng Wu, , 604 879 5612,"4480 Main Street, Vancouver,  V5V 3R3",49.244721500000004,-123.1008818
+253,Dr. David Book, , 604 224 5611,"3335 Dunbar Street, Vancouver,  V6S 2B9",49.2569826,-123.18550220000002
+254,Dr. Ryan Bernhauser, + Royal Centre Dental Group, 604 683 8100,"1055 West Georgia StreetPO Box 11030, Vancouver,  V6E 3P1",49.285307,-123.1215887
+255,Dr. Xuan Nguyen, DNI Dental Clinic, 604 253 2433,"2538 Hastings Street East, Vancouver,  V5K 1Z3",49.2809407,-123.0534114
+256,Dr. Shahin Jessa, Bright Smiles on Georgia / Dr Shahin Jessa Family Dentistry, 604 681 5911,"1090 Georgia Street West, Vancouver,  V6E 3V7",49.2853329,-123.1232054
+257,Dr. Anita Jain, , 604 873 3337,"1395 6th Avenue West, Vancouver,  V6H 0B1",49.266474200000005,-123.1357132
+258,Dr. Mariam Sourial, , 604 609 2020,"90 Smithe Street, Vancouver,  V6B 1M7",49.2761696,-123.1153662
+259,Dr. Trevor Shew, , 604 874 6322,"2495 Commercial Drive, Vancouver,  V5N 4B8",49.26262699999999,-123.070075
+260,Dr. Ana Culham, , 604 876 2426,"750 Broadway West, Vancouver,  V5Z 1J4",49.263009000000004,-123.12118600000001
+261,Dr. Edward Karateew, Kare Dentistry, 604 879 9660,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+262,Dr. Michael Fung, , 604 228 9074,"4358 10th Avenue West, Vancouver,  V6R 2H7",49.263631700000005,-123.2048202
+263,Dr. Andrew Shannon, PO Box , 604 669 6700,"49337 Bentall, Vancouver,  V7X 1L4",49.2864911,-123.1213098
+264,Dr. Troy Martin, Martin Dental, 604 732 6623,"2425 Oak Street, Vancouver,  V6H 3S7",49.264082200000004,-123.12704679999999
+265,Dr. Judson Wong, , 604 873 3301,"2620 Commercial Drive, Vancouver,  V5N 4C4",49.260746399999995,-123.06951809999998
+266,Dr. Ben-Sion Balevi, , 604 874 4612,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+267,Dr. Maria Kravjanski, Aarm Dental Group Coal Harbour, 604 688 2354,"1560 Coal Harbour Quay, Vancouver,  V6G 3G1",49.2914471,-123.12823689999999
+268,Dr. Amir Ajar, , 604 408 9200,"678 Dunsmuir Street, Vancouver,  V6B 1N3",49.28314959999999,-123.116548
+269,Dr. Michael Leclair, Alma Dental Centre, 604 222 8430,"2083 Alma Street, Vancouver,  V6R 4N6",49.267977200000004,-123.1864529
+270,Dr. Lori Durward, , 604 266 5313,"650 41st Avenue West, Vancouver,  V5Z 2M9",49.2319614,-123.118505
+271,Dr. Mahsa Farshchi, The Art of Smile Dental Clinic, 604 558 2673,"1437 Pender Street West, Vancouver,  V6G 2S3",49.289874700000006,-123.12795359999998
+272,Dr. Komal Dhir, , 604 408 9200,"678 Dunsmuir Street, Vancouver,  V6B 1N3",49.28314959999999,-123.116548
+273,Dr. Monika Arora, Sorriso Dental Clinic, 604 879 1115,"2555 Commercial Drive, Vancouver,  V5N 4C1",49.261832399999996,-123.07016399999999
+274,Dr. Fernanda Almeida, Vancouver West Dental Associates, 604 732 6333,"2786 16th Avenue West, Vancouver,  V6K 4M1",49.2573279,-123.16735020000002
+275,Dr. Claudia Rangel, Sorriso Dental Clinic, 604 879 1115,"2555 Commercial Drive, Vancouver,  V5N 4C1",49.261832399999996,-123.07016399999999
+276,Dr. James Luk, Dr. James Luk Inc., 604 731 9281,"2184 Broadway West, Vancouver,  V6K 2E1",49.263642,-123.15487150000001
+277,Dr. Shellina Kassam, , 604 707 6453,"1010 Mainland Street, Vancouver,  V6B 2T4",49.2762964,-123.1192143
+278,Dr. Peter Chu, , 604 266 1319,"7952 Granville Street, Vancouver,  V6P 4Z2",49.213635499999995,-123.1400483
+279,Dr. Nirmal Randhawa, , 604 324 1919,"6549 Fraser Street, Vancouver,  V5X 3T4",49.2250084,-123.09099280000001
+280,Dr. Mohammad Rahgozar, Ace Dental - Downtown Office, 604 559 4321,"898 Beach Avenue, Vancouver,  V6Z 2R1",49.27526899999999,-123.132728
+281,Dr. Juliana Ng, Commercial Station Dental Centre, 604 708 6111,"2460 Commercial Drive, Vancouver,  V5N 4B9",49.2627187,-123.06952199999999
+282,Dr. Douglas Nann, , 604 737 8828,"511 7th Avenue West, Vancouver,  V5Z 4R2",49.2651724,-123.11618670000001
+283,Dr. Steven Hill, , 604 669 5550,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+284,Dr. Ehsan Taheri, , 604 221 7600,"3328 Wesbrook Mall, Vancouver,  V6S 0A8",49.2547535,-123.235302
+285,Dr. David Charbonneau, , 604 876 9228,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+286,Dr. Amr Abd El Latif, , 604 684 1742,"736 Granville Street, Vancouver,  V6Z 1G3",49.28113219999999,-123.1197935
+287,Dr. Wayne Quong, , 604 873 4301,"805 Broadway West, Vancouver,  V5Z 1K1",49.2638386,-123.1222888
+288,Dr. Pouneh Hanjani, Granville Station Dental, 604 408 9200,"678 Dunsmuir Street, Vancouver,  V6B 1N3",49.28314959999999,-123.116548
+289,Dr. Kirsten Lee, Dr. Kiyoko Takeuchi Inc., 604 266 4353,"1508 Broadway West, Vancouver,  V6J 1W8",49.2633531,-123.1391261
+290,Dr. James Landrigan, , 604 321 5575,"1200 73rd Avenue West, Vancouver,  V6P 6G5",49.2040335,-123.13368
+291,Dr. Bahaeddin Azizi, ABBA Dental Clinic, 604 688 7201,"1160 Burrard Street, Vancouver,  V6Z 2E8",49.2792489,-123.12833140000001
+292,"""Dr. Giovanna D'Alfonso", Aarm Dental Group Hornby, 604 681 8530,"1270 Hornby Street, Vancouver,  V6Z 1W2",49.2776654,-123.1290645
+293,Dr. Terence Chan, , 604 433 6800,"3150 54th Avenue East, Vancouver,  V5S 1Z1",49.2199404,-123.0400202
+294,Dr. Sasan Alghabi, Granville Station Dental, 604 408 9200,"678 Dunsmuir Street, Vancouver,  V6B 1N3",49.28314959999999,-123.116548
+295,Dr. Susan Chow, , 604 228 0014,"3719 10th Avenue West, Vancouver,  V6R 2G5",49.2636382,-123.18638229999999
+296,Dr. Harsharon Mangat, , 604 879 7900,"511 7th Avenue West, Vancouver,  V5Z 4R2",49.2651724,-123.11618670000001
+297,Dr. Philip Kim, , 604 224 6262,"179 Davie Street, Vancouver,  V6Z 2Y1",49.2739189,-123.1206135
+298,Dr. Sutedjo Lubiantoro, Marpole Dental Centre, 604 559 5305,"8285 Granville Street West, Vancouver,  V6P 4PZ",49.21160580000001,-123.14066909999998
+299,Dr. Jaspaul Seehra, Portland Community Clinic, ,"360 Columbia Street, Vancouver,  V6A 4J1",49.2817235,-123.10210159999998
+300,Dr. Matias Navarrete Grimminck, , 604 362 8447,"650 41st Avenue West, Vancouver,  V5Z 2M9",49.2319614,-123.118505
+301,Dr. Jaspaul Seehra, Portland Community Clinic, ,"360 Columbia Street, Vancouver,  V6A 4J1",49.2817235,-123.10210159999998
+302,Dr. David Monaghan, , 604 734 8880,"1808 5th Avenue West, Vancouver,  V6J 1P3",49.2671715,-123.145999
+303,Dr. Wilson Tam, Happy Family Dental Centre, 604 336 2050,"3638 Kingsway, Vancouver,  V5R 5M2",49.232040999999995,-123.0258028
+304,Dr. Roderick Smythe, Kits Point Dental Group, 604 737 2101,"1891 Cornwall Avenue, Vancouver,  V6J 1C6",49.2727753,-123.1474477
+305,Dr. Baharnaz Baharloo, Wall Centre Dental, 604 687 1137,"1128 Hornby Street, Vancouver,  V6Z 2L4",49.2789452,-123.12689350000001
+306,Dr. Palwinder Dhillon, Gentle Dental Group, 604 683 3040,"189 Hastings Street East, Vancouver,  V6A 1N5",49.281520799999996,-123.100567
+307,Dr. Galia Anderson, , 604 733 1022,"2219 Broadway West, Vancouver,  V6K 2E4",49.2640325,-123.1559189
+308,Dr. Richard Yu, , 604 433 3348,"3039 Kingsway, Vancouver,  V5R 5J6",49.23595520000001,-123.0409744
+309,Dr. Susan Cipp, Kitsilano Dental Group, 604 736 8051,"2705 4th Avenue West, Vancouver,  V6K 1P9",49.268493799999995,-123.1664928
+310,Dr. Shana Lum, , 604 801 6669,"1050 Hamilton Street, Vancouver,  V6B 2R9",49.27634949999999,-123.1203192
+311,Dr. Janet Thom, Dr. Janet Thom Inc., 604 261 1943,"2029 42nd Avenue West, Vancouver,  V6M 2B4",49.2337287,-123.1529007
+312,Dr. Pamela Glassby, , 604 675 3981,"1669 Broadway East, Vancouver,  V5N 1V9",49.2624866,-123.07059640000001
+313,Dr. Mary Campbell, Fairmont Dentistry, 604 872 2941,"750 Broadway West, Vancouver,  V5Z 1H9",49.26301110000001,-123.12118670000001
+314,Dr. John Christensen, , 604 736 2505,"1905 4th Avenue West, Vancouver,  V6J 1M7",49.2682363,-123.1483021
+315,Dr. Kiyoko Takeuchi, , 604 266 4353,"1508 Broadway West, Vancouver,  V6J 1W8",49.2633531,-123.1391261
+0,Dr. Rodney Shainbom, , 604 926 5752,"2202 Folkestone Way, West Vancouver,  V7S 2X7",49.344674,-123.17198799999998
+1,Dr. Geoffrey Gillespie, North Shore Smile, 604 925 2457,"2457 Bellevue Avenue, West Vancouver,  V7V 1E1",49.3338464,-123.1807812
+2,Dr. Glen Joyce, , 604 922 8013,"660 Clyde Avenue, West Vancouver,  V7T 1C9",49.327958,-123.13372
+3,Dr. Heather Stewart, , 604 926 2221,"2419 Bellevue Avenue, West Vancouver,  V7V 4T4",49.3334891,-123.1798396
+4,Dr. Gabor Balogh, , 604 922 6044,"2461 Bellevue Avenue, West Vancouver,  V7V 1E1",49.333777000000005,-123.18091399999999
+5,Dr. Nazanin Bastani-Zadeh, West Van Dental Group, 604 922 3232,"702 Park Royal North, West Vancouver,  V7T 1H9",49.327464500000005,-123.13788980000001
+6,Dr. Mary Shkwarok, , 604 926 2313,"2420 Marine Drive, West Vancouver,  V7V 1L1",49.33415,-123.18000420000001
+7,Dr. Ali Behmard, Park Royal Village Dental CentreJ, 604 925 6725,"925 Main Street, West Vancouver,  V7T 2Z3",49.326230100000004,-123.1436127
+8,Dr. Catherine Mari, , 604 922 5522,"660 Clyde Avenue, West Vancouver,  V7T 1C9",49.327958,-123.13372
+9,Dr. Andrew Shearon, Park Royal Village Dental Centre / Dr. Andrew Shearon Inc.J, 604 926 3510,"925 Main Street, West Vancouver,  V7T 2Z3",49.326230100000004,-123.1436127
+10,Dr. Majid Sherkat, , 604 925 1711,"585 16th Street, West Vancouver,  V7V 3R8",49.3294679,-123.1594227
+11,Dr. Brett Coyle, Dundarave Dental Clinic, 604 922 1314,"2461 Bellevue Avenue, West Vancouver,  V7V 1E1",49.333777000000005,-123.18091399999999
+12,Dr. Elena Pavliouk, , 604 926 4420,"2456 Marine Drive, West Vancouver,  V7V 1L1",49.33435720000001,-123.18094359999999
+13,Dr. Teresa Godinho, , 604 926 2373,"609 Duchess Avenue, West Vancouver,  V7T 1G6",49.3294955,-123.1324696
+14,Dr. Mark Spurr, West Van Dental Group, 604 922 3232,"702 Park Royal North, West Vancouver,  V7T 1H9",49.327464500000005,-123.13788980000001
+15,Dr. Ronald Pudritz, , 604 926 8521,"1760 Marine Drive, West Vancouver,  V7V 1J4",49.328253600000004,-123.1616422
+16,Dr. Peter Kearney, West Van Dental Group, 604 922 3232,"702 Park Royal North, West Vancouver,  V7T 1H9",49.327464500000005,-123.13788980000001
+17,Dr. Mojgan Firouzi, Caufeild Dental Centre, 604 922 1305,"5311 Headland Drive, West Vancouver,  V7W 3C5",49.3510742,-123.2540702
+18,Dr. Euan Mackie, Dr. Mackie Inc., 604 926 7621,"1892 Marine Drive, West Vancouver,  V7V 1J6",49.328571000000004,-123.16415790000002
