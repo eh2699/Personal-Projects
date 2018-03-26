@@ -4,7 +4,7 @@ Analysis of a dataset containing expert ratings for over 1,700 individual chocol
 
 Read more about the dataset [here](https://www.kaggle.com/rtatman/chocolate-bar-ratings). 
 
-The analysis attempts to answer several questions: 
+The analysis (`cacao.ipynb`) attempts to answer several questions: 
 - What is the average rating for chocolates? 
 - What range of cocoa percentage were rated most favorably?
 - Which countries are the most prolific manufacturers of chocolate?
