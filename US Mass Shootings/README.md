@@ -17,3 +17,5 @@ This notebook conducts exploratory analysis of U.S. Mass Shootings using a [data
 I first approached this dataset by first examining and cleaning it to be suitable for analysis and manipulation. I then conducted exploratory data analysis by visualizing several aggregate information (datetime; yearly, quarterly, monthly, days of the week, weekday vs weekend), and cautiously examining other factors (shooters' gender, race, mental health, state of employment). 
 
 For non-categorical variables (event summaries, descriptions), I conducted a textual analysis by using the WordCloud module to assess predominent words - that is, words that were most frequently used in event descriptions and summaries. Using the results of this analysis, it became possible to focus on specific kinds of shootings to begin to understand their trends. 
+
+The analysis is stored in the `US_mass_shootings.ipynb` notebook, viewable in this folder. 
